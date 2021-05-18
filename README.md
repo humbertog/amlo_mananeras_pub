@@ -1,6 +1,6 @@
 # Latent Dirichlet Allocation (LDA) analysis and visualizations of AMLO's morning conferences
 
-LDA is used in order to discover the topics that the president AMLO talks in his daily morning conferences (mañaneras). MALLET's 
+LDA is applied to discover the topics that the president AMLO talks in his daily morning conferences (mañaneras). Gensim's (Python) interface to MALLET's 
 algorithm (http://mallet.cs.umass.edu/ ) is used after some basic pre-processing of the text data, including:
 - special character removal
 - bigram creation
@@ -13,3 +13,5 @@ scraped and put in csv format by https://github.com/NOSTRODATA/conferencias_matu
 
 For the StreamGraph (https://en.wikipedia.org/wiki/Streamgraph) the topic distribution is smoothed using a Gaussian window.
 Each document is limited to the 3 topics in order to better differentiate the topics in the documents (ToDo: this may be achieved using smaller α values).
+
+PDMX version: 13/05/2021 
