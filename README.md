@@ -14,4 +14,4 @@ scraped and put in csv format by https://github.com/NOSTRODATA/conferencias_matu
 For the StreamGraph (https://en.wikipedia.org/wiki/Streamgraph) the topic distribution is smoothed using a Gaussian window.
 Each document is limited to the 3 topics in order to better differentiate the topics in the documents (ToDo: this may be achieved using smaller α values).
 
-PDMX version: 13/05/2021 
+Version in Punto Decimal article: 13/05/2021 
