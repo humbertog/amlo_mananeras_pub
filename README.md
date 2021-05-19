@@ -1,17 +1,39 @@
-# Latent Dirichlet Allocation (LDA) analysis and visualizations of AMLO's morning conferences
+# Resultados del modelo LDA (Latent Dirichlet Allocation) aplicado a las conferencias matutinas de AMLO
 
-LDA is applied to discover the topics that the president AMLO talks in his daily morning conferences (mañaneras). Gensim's (Python) interface to MALLET's 
-algorithm (http://mallet.cs.umass.edu/ ) is used after some basic pre-processing of the text data, including:
-- special character removal
-- bigram creation
-- stop words removal
+Este repositorio contiene únicamente los resultados que se presentan en el sitio y no el código.
 
-The number of topics is set to 65 and α=40.
+El algoritmo  MALLET (http://mallet.cs.umass.edu/) es utilizado, mediante la interfaz de Gensim (Python), para descubrir los temas en las conferencias. Cada conferencia es un documento y sólo las intervenciones de AMLO son tomadas en cuenta. El preprocesamiento básico de los datos de texto, incluye:
+- eliminación de caracteres especiales
+- creación de unigramas y bigramas
+- eliminaión de stopwords, palabras muy poco frecuentes y muy frecuentes: palabras con bajo contenido semántico
 
-The transcriptions of the conferences are available online in the Government's website, and they are periodically 
-scraped and put in csv format by https://github.com/NOSTRODATA/conferencias_matutinas_amlo
+El número de temas en el modelo LDA se establece en 65 con α = 40 (parámetro de dispersión de temas en los documentos).
 
-For the StreamGraph (https://en.wikipedia.org/wiki/Streamgraph) the topic distribution is smoothed using a Gaussian window.
-Each document is limited to the 3 topics in order to better differentiate the topics in the documents (ToDo: this may be achieved using smaller α values).
+Las transcripciones de las conferencias están disponibles en línea en el sitio web del Gobierno y se revisan periódicamente.
+raspado y puesto en formato csv por https://github.com/NOSTRODATA/conferencias_matutinas_amlo
 
-Version in Punto Decimal article: 13/05/2021 
+Para StreamGraph (https://en.wikipedia.org/wiki/Streamgraph), la distribución de temas se suaviza (7 días) mediante una ventana gaussiana, lo que le da una mejor presentación visual. Cada documento se limita a los 3 temas para diferenciar mejor los temas en los documentos (Tareas pendientes: esto se puede lograr utilizando valores α más pequeños).
+
+Versión en artículo de Punto Decimal: 13/05/2021
+
+
+## Notas sobre el procesamiento del texto
+
+ - filter_extremes(no_below=10, no_above=.75,...) : se eliminan palabras que aparecen en menos de 10 documentos (conferencias) y aquellas que aparecen en más del 75% de los documentos. Las primeras son muy específicas, las segundas muy generales por lo que no aportan mucho significado, pero reduce significativamentela complejidad del problema. 
+
+- Otras palabras que se eliminan  (stopwords):
+  nltk.corpus.stopwords.words("spanish") +
+  ["va", "van", "ahí", "si", "sí", "vamos", "día", "hoy", "buenos", "días", "gracias", "conferencia",
+  "pues", "voy", "hace", "mañana", "ayer", "ir", "creo", "iba", "semana", "quién", "ahora", "informar",
+  "informamos", "informaremos", "informo", "informarles", "lunes", "martes", "miércoles", "jueves",
+  "viernes", "sábado", "domingo", "entonces", "aquí", "así", "país", "muchas", "ah", "buen", "sé",
+  "dije", "existe", "dicen", "dice", "quieren", "quiere", "señor", "arriba", "abajo",
+  "después", "allá", "iban", "mil", "sido", "miren", "imagínense"]
+
+- Palabras que no se eliminan, a pesar de su alta frecuencia (más del 75% de los documentos):
+  ['ayudar','presupuesto','empresas','respeto','dinero', 'austeridad',
+  'corrupción', 'apoyo', 'política', 'pesos', 'estados_unidos',
+  'proceso', 'vida', 'recursos', 'mil_millones']
+  
+
+
