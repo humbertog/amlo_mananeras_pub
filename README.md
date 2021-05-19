@@ -7,12 +7,11 @@ El algoritmo  MALLET (http://mallet.cs.umass.edu/) es utilizado, mediante la int
 - creación de unigramas y bigramas
 - eliminaión de stopwords, palabras muy poco frecuentes y muy frecuentes: palabras con bajo contenido semántico
 
-El número de temas en el modelo LDA se establece en 65 con α = 40 (parámetro de dispersión de temas en los documentos).
+El número de temas predefinido en el modelo LDA es 65 con α = 40 (parámetro de dispersión de temas en los documentos).
 
-Las transcripciones de las conferencias están disponibles en línea en el sitio web del Gobierno y se revisan periódicamente.
-raspado y puesto en formato csv por https://github.com/NOSTRODATA/conferencias_matutinas_amlo
+Las transcripciones de las conferencias están disponibles en línea en el sitio web del Gobierno y son descargadas y puestas en formato csv por https://github.com/NOSTRODATA/conferencias_matutinas_amlo
 
-Para StreamGraph (https://en.wikipedia.org/wiki/Streamgraph), la distribución de temas se suaviza (7 días) mediante una ventana gaussiana, lo que le da una mejor presentación visual. Cada documento se limita a los 3 temas para diferenciar mejor los temas en los documentos (Tareas pendientes: esto se puede lograr utilizando valores α más pequeños).
+Para StreamGraph (https://en.wikipedia.org/wiki/Streamgraph), la distribución de temas se suaviza (7 días) mediante una ventana gaussiana, lo que le da una mejor presentación visual. Cada documento se limita a los 3 temas principales para diferenciar mejor los temas en los documentos (Tareas pendientes: esto se puede lograr utilizando valores α más pequeños).
 
 Versión en artículo de Punto Decimal: 13/05/2021
 
