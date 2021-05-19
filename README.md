@@ -36,4 +36,12 @@ Versión en artículo de Punto Decimal: 13/05/2021
   'proceso', 'vida', 'recursos', 'mil_millones']
   
 
+## Bibliotecas:
+- Gensim: Topic modelling for Humans (https://radimrehurek.com/gensim/)
+- MALLET:  MAchine Learning for LanguagE Toolkit (http://mallet.cs.umass.edu/)
+- NLTK: Natural Language ToolKit (https://www.nltk.org/)
+- D3: Data Driven Documents (https://d3js.org/) para las gráficas
+
+
+
 
