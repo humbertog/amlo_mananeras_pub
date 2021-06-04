@@ -2712,6 +2712,190 @@
       ]
     },
     {
+      "name": "Salud/Educ.",
+      "group_value": 0.04870316506447241,
+      "color": "#17BECF",
+      "children": [
+        {
+          "name": "tema_27",
+          "topic_rank": 5,
+          "topic_value": 0.023160982808256916,
+          "ts_code": "....|.......||...............",
+          "children": [
+            {
+              "name": "salud",
+              "value": 0.004621902791514381,
+              "value_in_topic": 0.19955555555555557
+            },
+            {
+              "name": "medicamentos",
+              "value": 0.004364558538089303,
+              "value_in_topic": 0.18844444444444444
+            },
+            {
+              "name": "hospitales",
+              "value": 0.0032116562827449596,
+              "value_in_topic": 0.1386666666666667
+            },
+            {
+              "name": "hospital",
+              "value": 0.0022646294301406763,
+              "value_in_topic": 0.09777777777777778
+            },
+            {
+              "name": "atenci\u00f3n_m\u00e9dica",
+              "value": 0.002079341567674621,
+              "value_in_topic": 0.08977777777777778
+            },
+            {
+              "name": "medicinas",
+              "value": 0.0017602346934275255,
+              "value_in_topic": 0.076
+            },
+            {
+              "name": "m\u00e9dicos",
+              "value": 0.0013484838879474028,
+              "value_in_topic": 0.058222222222222224
+            },
+            {
+              "name": "atenci\u00f3n",
+              "value": 0.0013176025775363937,
+              "value_in_topic": 0.0568888888888889
+            },
+            {
+              "name": "plan",
+              "value": 0.001111727174796332,
+              "value_in_topic": 0.048
+            },
+            {
+              "name": "bienestar",
+              "value": 0.0010808458643853228,
+              "value_in_topic": 0.04666666666666667
+            }
+          ],
+          "value_in_group": 0.47555395583832805
+        },
+        {
+          "name": "tema_29",
+          "topic_rank": 23,
+          "topic_value": 0.01643513599626202,
+          "ts_code": "..|||...|....................",
+          "children": [
+            {
+              "name": "maestros",
+              "value": 0.0045351672442515475,
+              "value_in_topic": 0.27594339622641506
+            },
+            {
+              "name": "educaci\u00f3n",
+              "value": 0.0027908721503086447,
+              "value_in_topic": 0.16981132075471697
+            },
+            {
+              "name": "escuela",
+              "value": 0.0016376992826463925,
+              "value_in_topic": 0.09964622641509434
+            },
+            {
+              "name": "maestro",
+              "value": 0.0014051266034540053,
+              "value_in_topic": 0.08549528301886793
+            },
+            {
+              "name": "reforma_educativa",
+              "value": 0.0013760550185549568,
+              "value_in_topic": 0.08372641509433962
+            },
+            {
+              "name": "educaci\u00f3n_p\u00fablica",
+              "value": 0.0010659581129651074,
+              "value_in_topic": 0.06485849056603774
+            },
+            {
+              "name": "escuelas",
+              "value": 0.0009399812450692311,
+              "value_in_topic": 0.05719339622641509
+            },
+            {
+              "name": "maestras_maestros",
+              "value": 0.0009302907167695483,
+              "value_in_topic": 0.056603773584905655
+            },
+            {
+              "name": "educativa",
+              "value": 0.0009012191318704998,
+              "value_in_topic": 0.05483490566037735
+            },
+            {
+              "name": "derecho",
+              "value": 0.000852766490372086,
+              "value_in_topic": 0.051886792452830184
+            }
+          ],
+          "value_in_group": 0.3374551936102196
+        },
+        {
+          "name": "tema_37",
+          "topic_rank": 62,
+          "topic_value": 0.009107046259953474,
+          "ts_code": ".......|.....................",
+          "children": [
+            {
+              "name": "campa\u00f1a",
+              "value": 0.002282019674838226,
+              "value_in_topic": 0.2505773672055427
+            },
+            {
+              "name": "salud",
+              "value": 0.0011673003866684013,
+              "value_in_topic": 0.12817551963048499
+            },
+            {
+              "name": "confianza",
+              "value": 0.0008097489168780801,
+              "value_in_topic": 0.08891454965357966
+            },
+            {
+              "name": "cuidar",
+              "value": 0.0007887164774786495,
+              "value_in_topic": 0.08660508083140876
+            },
+            {
+              "name": "ayuda",
+              "value": 0.0007571678183795035,
+              "value_in_topic": 0.0831408775981524
+            },
+            {
+              "name": "enfermedades",
+              "value": 0.0006835542804814962,
+              "value_in_topic": 0.07505773672055426
+            },
+            {
+              "name": "alimentos",
+              "value": 0.0006730380607817809,
+              "value_in_topic": 0.07390300230946881
+            },
+            {
+              "name": "cuenta",
+              "value": 0.0006730380607817809,
+              "value_in_topic": 0.07390300230946881
+            },
+            {
+              "name": "ejercicio",
+              "value": 0.0006414894016826349,
+              "value_in_topic": 0.07043879907621246
+            },
+            {
+              "name": "ni\u00f1os",
+              "value": 0.0006309731819829197,
+              "value_in_topic": 0.06928406466512702
+            }
+          ],
+          "value_in_group": 0.18699085055145231
+        }
+      ]
+    },
+    {
       "name": "Prog. Sociales",
       "group_value": 0.04520940048289707,
       "color": "#AEC7E8",
@@ -2951,131 +3135,6 @@
             }
           ],
           "value_in_group": 0.16556801093907392
-        }
-      ]
-    },
-    {
-      "name": "Salud/Educ.",
-      "group_value": 0.03959611880451894,
-      "color": "#17BECF",
-      "children": [
-        {
-          "name": "tema_27",
-          "topic_rank": 5,
-          "topic_value": 0.023160982808256916,
-          "ts_code": "....|.......||...............",
-          "children": [
-            {
-              "name": "salud",
-              "value": 0.004621902791514381,
-              "value_in_topic": 0.19955555555555557
-            },
-            {
-              "name": "medicamentos",
-              "value": 0.004364558538089303,
-              "value_in_topic": 0.18844444444444444
-            },
-            {
-              "name": "hospitales",
-              "value": 0.0032116562827449596,
-              "value_in_topic": 0.1386666666666667
-            },
-            {
-              "name": "hospital",
-              "value": 0.0022646294301406763,
-              "value_in_topic": 0.09777777777777778
-            },
-            {
-              "name": "atenci\u00f3n_m\u00e9dica",
-              "value": 0.002079341567674621,
-              "value_in_topic": 0.08977777777777778
-            },
-            {
-              "name": "medicinas",
-              "value": 0.0017602346934275255,
-              "value_in_topic": 0.076
-            },
-            {
-              "name": "m\u00e9dicos",
-              "value": 0.0013484838879474028,
-              "value_in_topic": 0.058222222222222224
-            },
-            {
-              "name": "atenci\u00f3n",
-              "value": 0.0013176025775363937,
-              "value_in_topic": 0.0568888888888889
-            },
-            {
-              "name": "plan",
-              "value": 0.001111727174796332,
-              "value_in_topic": 0.048
-            },
-            {
-              "name": "bienestar",
-              "value": 0.0010808458643853228,
-              "value_in_topic": 0.04666666666666667
-            }
-          ],
-          "value_in_group": 0.5849306322824158
-        },
-        {
-          "name": "tema_29",
-          "topic_rank": 23,
-          "topic_value": 0.01643513599626202,
-          "ts_code": "..|||...|....................",
-          "children": [
-            {
-              "name": "maestros",
-              "value": 0.0045351672442515475,
-              "value_in_topic": 0.27594339622641506
-            },
-            {
-              "name": "educaci\u00f3n",
-              "value": 0.0027908721503086447,
-              "value_in_topic": 0.16981132075471697
-            },
-            {
-              "name": "escuela",
-              "value": 0.0016376992826463925,
-              "value_in_topic": 0.09964622641509434
-            },
-            {
-              "name": "maestro",
-              "value": 0.0014051266034540053,
-              "value_in_topic": 0.08549528301886793
-            },
-            {
-              "name": "reforma_educativa",
-              "value": 0.0013760550185549568,
-              "value_in_topic": 0.08372641509433962
-            },
-            {
-              "name": "educaci\u00f3n_p\u00fablica",
-              "value": 0.0010659581129651074,
-              "value_in_topic": 0.06485849056603774
-            },
-            {
-              "name": "escuelas",
-              "value": 0.0009399812450692311,
-              "value_in_topic": 0.05719339622641509
-            },
-            {
-              "name": "maestras_maestros",
-              "value": 0.0009302907167695483,
-              "value_in_topic": 0.056603773584905655
-            },
-            {
-              "name": "educativa",
-              "value": 0.0009012191318704998,
-              "value_in_topic": 0.05483490566037735
-            },
-            {
-              "name": "derecho",
-              "value": 0.000852766490372086,
-              "value_in_topic": 0.051886792452830184
-            }
-          ],
-          "value_in_group": 0.4150693677175842
         }
       ]
     },
