@@ -2771,6 +2771,249 @@
       ]
     },
     {
+      "name": "Otros",
+      "group_value": 0.0524132451464788,
+      "color": "#C7C7C7",
+      "children": [
+        {
+          "name": "tema_46",
+          "topic_rank": 14,
+          "topic_value": 0.01972654881025211,
+          "ts_code": ".||||.........................",
+          "children": [
+            {
+              "name": "acerca",
+              "value": 0.003494747300205718,
+              "value_in_topic": 0.17715959004392387
+            },
+            {
+              "name": "dar_conocer",
+              "value": 0.0026716043410663546,
+              "value_in_topic": 0.1354319180087848
+            },
+            {
+              "name": "corrupci\u00f3n",
+              "value": 0.0023394589365013487,
+              "value_in_topic": 0.11859443631039533
+            },
+            {
+              "name": "atender",
+              "value": 0.0017906969637417726,
+              "value_in_topic": 0.09077598828696926
+            },
+            {
+              "name": "dar",
+              "value": 0.0017762558591954683,
+              "value_in_topic": 0.09004392386530016
+            },
+            {
+              "name": "cambio",
+              "value": 0.0017329325455565545,
+              "value_in_topic": 0.08784773060029284
+            },
+            {
+              "name": "respeto",
+              "value": 0.0015885215000935081,
+              "value_in_topic": 0.08052708638360176
+            },
+            {
+              "name": "termina",
+              "value": 0.0014874337682693757,
+              "value_in_topic": 0.07540263543191801
+            },
+            {
+              "name": "transparencia",
+              "value": 0.0014296693500841571,
+              "value_in_topic": 0.07247437774524158
+            },
+            {
+              "name": "toda_informaci\u00f3n",
+              "value": 0.0014152282455378526,
+              "value_in_topic": 0.07174231332357248
+            }
+          ],
+          "value_in_group": 0.37636572120506007
+        },
+        {
+          "name": "tema_55",
+          "topic_rank": 41,
+          "topic_value": 0.01253045832566818,
+          "ts_code": "..............................",
+          "children": [
+            {
+              "name": "pol\u00edtica",
+              "value": 0.0019123934118901323,
+              "value_in_topic": 0.15261958997722097
+            },
+            {
+              "name": "plan",
+              "value": 0.0016840479298734,
+              "value_in_topic": 0.13439635535307518
+            },
+            {
+              "name": "periodo_neoliberal",
+              "value": 0.0014842456331087594,
+              "value_in_topic": 0.11845102505694761
+            },
+            {
+              "name": "ayudar",
+              "value": 0.0013795872871844236,
+              "value_in_topic": 0.11009870918754745
+            },
+            {
+              "name": "situaci\u00f3n",
+              "value": 0.001217842570755905,
+              "value_in_topic": 0.09719058466211085
+            },
+            {
+              "name": "seguir",
+              "value": 0.0009990114838232035,
+              "value_in_topic": 0.07972665148063782
+            },
+            {
+              "name": "comentaba",
+              "value": 0.0009990114838232035,
+              "value_in_topic": 0.07972665148063782
+            },
+            {
+              "name": "d\u00f3nde",
+              "value": 0.000989497088739173,
+              "value_in_topic": 0.07896735003796507
+            },
+            {
+              "name": "quiero",
+              "value": 0.0009799826936551423,
+              "value_in_topic": 0.07820804859529233
+            },
+            {
+              "name": "actitud",
+              "value": 0.0008848387428148373,
+              "value_in_topic": 0.07061503416856492
+            }
+          ],
+          "value_in_group": 0.23907045424585763
+        },
+        {
+          "name": "tema_50",
+          "topic_rank": 42,
+          "topic_value": 0.01243490263347982,
+          "ts_code": ".....|..............||........",
+          "children": [
+            {
+              "name": "transformaci\u00f3n",
+              "value": 0.0018147655829517182,
+              "value_in_topic": 0.1459412780656304
+            },
+            {
+              "name": "dar",
+              "value": 0.0015570473936567994,
+              "value_in_topic": 0.1252158894645941
+            },
+            {
+              "name": "sali\u00f3",
+              "value": 0.0012563761728127277,
+              "value_in_topic": 0.1010362694300518
+            },
+            {
+              "name": "verdad",
+              "value": 0.0012456379149254396,
+              "value_in_topic": 0.1001727115716753
+            },
+            {
+              "name": "digo",
+              "value": 0.0012026848833762865,
+              "value_in_topic": 0.09671848013816925
+            },
+            {
+              "name": "igual",
+              "value": 0.00118120836760171,
+              "value_in_topic": 0.09499136442141623
+            },
+            {
+              "name": "contrario",
+              "value": 0.0011597318518271334,
+              "value_in_topic": 0.09326424870466321
+            },
+            {
+              "name": "cambios",
+              "value": 0.0010953023045034039,
+              "value_in_topic": 0.08808290155440414
+            },
+            {
+              "name": "periodo_neoliberal",
+              "value": 0.0009664432098559446,
+              "value_in_topic": 0.07772020725388601
+            },
+            {
+              "name": "dos_tres",
+              "value": 0.0009557049519686563,
+              "value_in_topic": 0.0768566493955095
+            }
+          ],
+          "value_in_group": 0.23724733316412894
+        },
+        {
+          "name": "tema_60",
+          "topic_rank": 62,
+          "topic_value": 0.007721335377078692,
+          "ts_code": "..............................",
+          "children": [
+            {
+              "name": "campa\u00f1a",
+              "value": 0.0014126534042155333,
+              "value_in_topic": 0.18295454545454543
+            },
+            {
+              "name": "puertos",
+              "value": 0.0010792321038416805,
+              "value_in_topic": 0.13977272727272724
+            },
+            {
+              "name": "salud",
+              "value": 0.0009212956984014348,
+              "value_in_topic": 0.11931818181818181
+            },
+            {
+              "name": "investigaci\u00f3n",
+              "value": 0.0006317456217609838,
+              "value_in_topic": 0.0818181818181818
+            },
+            {
+              "name": "debe",
+              "value": 0.0006317456217609838,
+              "value_in_topic": 0.0818181818181818
+            },
+            {
+              "name": "pensando",
+              "value": 0.0006317456217609838,
+              "value_in_topic": 0.0818181818181818
+            },
+            {
+              "name": "afecta",
+              "value": 0.0006229713770143035,
+              "value_in_topic": 0.08068181818181817
+            },
+            {
+              "name": "mismo_tiempo",
+              "value": 0.0005966486427742625,
+              "value_in_topic": 0.07727272727272726
+            },
+            {
+              "name": "grandes",
+              "value": 0.0005966486427742625,
+              "value_in_topic": 0.07727272727272726
+            },
+            {
+              "name": "secretar\u00eda_marina",
+              "value": 0.0005966486427742625,
+              "value_in_topic": 0.07727272727272726
+            }
+          ],
+          "value_in_group": 0.14731649138495337
+        }
+      ]
+    },
+    {
       "name": "Salud/Educ.",
       "group_value": 0.03780521335090454,
       "color": "#17BECF",
@@ -3076,190 +3319,6 @@
             }
           ],
           "value_in_group": 0.32626026616223053
-        }
-      ]
-    },
-    {
-      "name": "Otros",
-      "group_value": 0.032686696336226694,
-      "color": "#C7C7C7",
-      "children": [
-        {
-          "name": "tema_55",
-          "topic_rank": 41,
-          "topic_value": 0.01253045832566818,
-          "ts_code": "..............................",
-          "children": [
-            {
-              "name": "pol\u00edtica",
-              "value": 0.0019123934118901323,
-              "value_in_topic": 0.15261958997722097
-            },
-            {
-              "name": "plan",
-              "value": 0.0016840479298734,
-              "value_in_topic": 0.13439635535307518
-            },
-            {
-              "name": "periodo_neoliberal",
-              "value": 0.0014842456331087594,
-              "value_in_topic": 0.11845102505694761
-            },
-            {
-              "name": "ayudar",
-              "value": 0.0013795872871844236,
-              "value_in_topic": 0.11009870918754745
-            },
-            {
-              "name": "situaci\u00f3n",
-              "value": 0.001217842570755905,
-              "value_in_topic": 0.09719058466211085
-            },
-            {
-              "name": "seguir",
-              "value": 0.0009990114838232035,
-              "value_in_topic": 0.07972665148063782
-            },
-            {
-              "name": "comentaba",
-              "value": 0.0009990114838232035,
-              "value_in_topic": 0.07972665148063782
-            },
-            {
-              "name": "d\u00f3nde",
-              "value": 0.000989497088739173,
-              "value_in_topic": 0.07896735003796507
-            },
-            {
-              "name": "quiero",
-              "value": 0.0009799826936551423,
-              "value_in_topic": 0.07820804859529233
-            },
-            {
-              "name": "actitud",
-              "value": 0.0008848387428148373,
-              "value_in_topic": 0.07061503416856492
-            }
-          ],
-          "value_in_group": 0.3833504064398415
-        },
-        {
-          "name": "tema_50",
-          "topic_rank": 42,
-          "topic_value": 0.01243490263347982,
-          "ts_code": ".....|..............||........",
-          "children": [
-            {
-              "name": "transformaci\u00f3n",
-              "value": 0.0018147655829517182,
-              "value_in_topic": 0.1459412780656304
-            },
-            {
-              "name": "dar",
-              "value": 0.0015570473936567994,
-              "value_in_topic": 0.1252158894645941
-            },
-            {
-              "name": "sali\u00f3",
-              "value": 0.0012563761728127277,
-              "value_in_topic": 0.1010362694300518
-            },
-            {
-              "name": "verdad",
-              "value": 0.0012456379149254396,
-              "value_in_topic": 0.1001727115716753
-            },
-            {
-              "name": "digo",
-              "value": 0.0012026848833762865,
-              "value_in_topic": 0.09671848013816925
-            },
-            {
-              "name": "igual",
-              "value": 0.00118120836760171,
-              "value_in_topic": 0.09499136442141623
-            },
-            {
-              "name": "contrario",
-              "value": 0.0011597318518271334,
-              "value_in_topic": 0.09326424870466321
-            },
-            {
-              "name": "cambios",
-              "value": 0.0010953023045034039,
-              "value_in_topic": 0.08808290155440414
-            },
-            {
-              "name": "periodo_neoliberal",
-              "value": 0.0009664432098559446,
-              "value_in_topic": 0.07772020725388601
-            },
-            {
-              "name": "dos_tres",
-              "value": 0.0009557049519686563,
-              "value_in_topic": 0.0768566493955095
-            }
-          ],
-          "value_in_group": 0.3804270246699177
-        },
-        {
-          "name": "tema_60",
-          "topic_rank": 62,
-          "topic_value": 0.007721335377078692,
-          "ts_code": "..............................",
-          "children": [
-            {
-              "name": "campa\u00f1a",
-              "value": 0.0014126534042155333,
-              "value_in_topic": 0.18295454545454543
-            },
-            {
-              "name": "puertos",
-              "value": 0.0010792321038416805,
-              "value_in_topic": 0.13977272727272724
-            },
-            {
-              "name": "salud",
-              "value": 0.0009212956984014348,
-              "value_in_topic": 0.11931818181818181
-            },
-            {
-              "name": "investigaci\u00f3n",
-              "value": 0.0006317456217609838,
-              "value_in_topic": 0.0818181818181818
-            },
-            {
-              "name": "debe",
-              "value": 0.0006317456217609838,
-              "value_in_topic": 0.0818181818181818
-            },
-            {
-              "name": "pensando",
-              "value": 0.0006317456217609838,
-              "value_in_topic": 0.0818181818181818
-            },
-            {
-              "name": "afecta",
-              "value": 0.0006229713770143035,
-              "value_in_topic": 0.08068181818181817
-            },
-            {
-              "name": "mismo_tiempo",
-              "value": 0.0005966486427742625,
-              "value_in_topic": 0.07727272727272726
-            },
-            {
-              "name": "grandes",
-              "value": 0.0005966486427742625,
-              "value_in_topic": 0.07727272727272726
-            },
-            {
-              "name": "secretar\u00eda_marina",
-              "value": 0.0005966486427742625,
-              "value_in_topic": 0.07727272727272726
-            }
-          ],
-          "value_in_group": 0.23622256889024082
         }
       ]
     },
