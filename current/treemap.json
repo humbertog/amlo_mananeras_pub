@@ -1,3511 +1,3518 @@
 {
   "children": [
     {
-      "name": "Pol\u00edtica",
-      "group_value": 0.39574463032853746,
-      "color": "#D62728",
-      "children": [
-        {
-          "name": "tema_21",
-          "topic_rank": 1,
-          "topic_value": 0.30974936261944114,
-          "ts_code": "||||||||||||||||||||||||||||||||||",
-          "children": [
-            {
-              "name": "corrupci\u00f3n",
-              "value": 0.04237125320676316,
-              "value_in_topic": 0.13679205938777214
-            },
-            {
-              "name": "dinero",
-              "value": 0.0403560350664415,
-              "value_in_topic": 0.130286095587622
-            },
-            {
-              "name": "apoyo",
-              "value": 0.031726767645064116,
-              "value_in_topic": 0.10242722495620986
-            },
-            {
-              "name": "ayudar",
-              "value": 0.031210045044981642,
-              "value_in_topic": 0.10075902911001752
-            },
-            {
-              "name": "pol\u00edtica",
-              "value": 0.029375679814688842,
-              "value_in_topic": 0.09483693385603469
-            },
-            {
-              "name": "casos",
-              "value": 0.027980528794466157,
-              "value_in_topic": 0.09033280507131537
-            },
-            {
-              "name": "debe",
-              "value": 0.027773839754433167,
-              "value_in_topic": 0.08966552673283844
-            },
-            {
-              "name": "pueden",
-              "value": 0.026378688734210478,
-              "value_in_topic": 0.08516139794811911
-            },
-            {
-              "name": "dar",
-              "value": 0.026327016474202228,
-              "value_in_topic": 0.08499457836349987
-            },
-            {
-              "name": "quiero",
-              "value": 0.026249508084189858,
-              "value_in_topic": 0.08474434898657103
-            }
-          ],
-          "value_in_group": 0.7827001022409195
-        },
-        {
-          "name": "tema_47",
-          "topic_rank": 10,
-          "topic_value": 0.016420782463897343,
-          "ts_code": "...........................||.....",
-          "children": [
-            {
-              "name": "democracia",
-              "value": 0.004503001784555265,
-              "value_in_topic": 0.2742257742257742
-            },
-            {
-              "name": "partido",
-              "value": 0.0017470662661389282,
-              "value_in_topic": 0.1063936063936064
-            },
-            {
-              "name": "elecciones",
-              "value": 0.0017060553209243992,
-              "value_in_topic": 0.10389610389610389
-            },
-            {
-              "name": "fraude",
-              "value": 0.001681448753795682,
-              "value_in_topic": 0.1023976023976024
-            },
-            {
-              "name": "candidatos",
-              "value": 0.001230328356435865,
-              "value_in_topic": 0.07492507492507493
-            },
-            {
-              "name": "partidos",
-              "value": 0.0011893174112213361,
-              "value_in_topic": 0.07242757242757243
-            },
-            {
-              "name": "elecci\u00f3n",
-              "value": 0.001164710844092619,
-              "value_in_topic": 0.07092907092907094
-            },
-            {
-              "name": "fraude_electoral",
-              "value": 0.00112369989887809,
-              "value_in_topic": 0.06843156843156843
-            },
-            {
-              "name": "ciudadanos",
-              "value": 0.0010662845755777495,
-              "value_in_topic": 0.06493506493506494
-            },
-            {
-              "name": "electoral",
-              "value": 0.0010088692522774092,
-              "value_in_topic": 0.06143856143856144
-            }
-          ],
-          "value_in_group": 0.04149338034041097
-        },
-        {
-          "name": "tema_55",
-          "topic_rank": 23,
-          "topic_value": 0.013680487413027334,
-          "ts_code": "...................|..............",
-          "children": [
-            {
-              "name": "consulta",
-              "value": 0.004233167188598481,
-              "value_in_topic": 0.3094310210444271
-            },
-            {
-              "name": "ciudadanos",
-              "value": 0.0015887705569299084,
-              "value_in_topic": 0.11613406079501168
-            },
-            {
-              "name": "constituci\u00f3n",
-              "value": 0.0014181643226287102,
-              "value_in_topic": 0.10366328916601714
-            },
-            {
-              "name": "revocaci\u00f3n_mandato",
-              "value": 0.0012582209779713372,
-              "value_in_topic": 0.09197194076383476
-            },
-            {
-              "name": "democracia",
-              "value": 0.0011196034126016133,
-              "value_in_topic": 0.08183943881527668
-            },
-            {
-              "name": "legisladores",
-              "value": 0.0009703229575880649,
-              "value_in_topic": 0.07092751363990646
-            },
-            {
-              "name": "expresidentes",
-              "value": 0.0008956827300812907,
-              "value_in_topic": 0.06547155105222136
-            },
-            {
-              "name": "democracia_participativa",
-              "value": 0.0007890538336430418,
-              "value_in_topic": 0.05767731878409976
-            },
-            {
-              "name": "hacia_adelante",
-              "value": 0.0007783909439992169,
-              "value_in_topic": 0.0568978955572876
-            },
-            {
-              "name": "decidir",
-              "value": 0.0006291104889856686,
-              "value_in_topic": 0.04598597038191738
-            }
-          ],
-          "value_in_group": 0.034568977983782445
-        },
-        {
-          "name": "tema_43",
-          "topic_rank": 24,
-          "topic_value": 0.012218295200071571,
-          "ts_code": "..................................",
-          "children": [
-            {
-              "name": "transformaci\u00f3n",
-              "value": 0.003625049757940856,
-              "value_in_topic": 0.2966903073286052
-            },
-            {
-              "name": "cambio",
-              "value": 0.001140951915845927,
-              "value_in_topic": 0.09338061465721041
-            },
-            {
-              "name": "conservadurismo",
-              "value": 0.0011265094865314216,
-              "value_in_topic": 0.0921985815602837
-            },
-            {
-              "name": "movimiento",
-              "value": 0.0010687397692734,
-              "value_in_topic": 0.08747044917257683
-            },
-            {
-              "name": "democracia",
-              "value": 0.0009820851933863674,
-              "value_in_topic": 0.08037825059101655
-            },
-            {
-              "name": "conservadores",
-              "value": 0.000967642764071862,
-              "value_in_topic": 0.07919621749408984
-            },
-            {
-              "name": "pol\u00edtica",
-              "value": 0.0009532003347573566,
-              "value_in_topic": 0.07801418439716312
-            },
-            {
-              "name": "pensamiento",
-              "value": 0.0008954306174993351,
-              "value_in_topic": 0.07328605200945627
-            },
-            {
-              "name": "humanos",
-              "value": 0.0007365638950397756,
-              "value_in_topic": 0.060283687943262415
-            },
-            {
-              "name": "llevando_cabo",
-              "value": 0.0007221214657252701,
-              "value_in_topic": 0.0591016548463357
-            }
-          ],
-          "value_in_group": 0.030874190737416304
-        },
-        {
-          "name": "tema_2",
-          "topic_rank": 39,
-          "topic_value": 0.008227307243884352,
-          "ts_code": ".............................|....",
-          "children": [
-            {
-              "name": "votaron",
-              "value": 0.0011331951486859581,
-              "value_in_topic": 0.1377358490566038
-            },
-            {
-              "name": "mayor\u00eda",
-              "value": 0.0009469164941074444,
-              "value_in_topic": 0.11509433962264153
-            },
-            {
-              "name": "partido",
-              "value": 0.0008693003880330636,
-              "value_in_topic": 0.10566037735849057
-            },
-            {
-              "name": "presupuesto",
-              "value": 0.0008227307243884353,
-              "value_in_topic": 0.10000000000000002
-            },
-            {
-              "name": "partidos",
-              "value": 0.0007916842819586829,
-              "value_in_topic": 0.09622641509433963
-            },
-            {
-              "name": "elecciones",
-              "value": 0.0007606378395289306,
-              "value_in_topic": 0.09245283018867925
-            },
-            {
-              "name": "transformaci\u00f3n",
-              "value": 0.0007451146183140545,
-              "value_in_topic": 0.09056603773584906
-            },
-            {
-              "name": "pri",
-              "value": 0.0007295913970991784,
-              "value_in_topic": 0.08867924528301888
-            },
-            {
-              "name": "conservadores",
-              "value": 0.0007140681758843022,
-              "value_in_topic": 0.08679245283018869
-            },
-            {
-              "name": "c\u00e1mara_diputados",
-              "value": 0.0007140681758843022,
-              "value_in_topic": 0.08679245283018869
-            }
-          ],
-          "value_in_group": 0.02078943493700532
-        },
-        {
-          "name": "tema_11",
-          "topic_rank": 40,
-          "topic_value": 0.008200881248650444,
-          "ts_code": "..................................",
-          "children": [
-            {
-              "name": "planta",
-              "value": 0.0027772309504632184,
-              "value_in_topic": 0.3386503067484663
-            },
-            {
-              "name": "millones_d\u00f3lares",
-              "value": 0.0010464928219136764,
-              "value_in_topic": 0.1276073619631902
-            },
-            {
-              "name": "empresa",
-              "value": 0.0007748071854553181,
-              "value_in_topic": 0.09447852760736197
-            },
-            {
-              "name": "pemex",
-              "value": 0.0007244950305556221,
-              "value_in_topic": 0.08834355828220859
-            },
-            {
-              "name": "fertilizantes",
-              "value": 0.0005836209968364734,
-              "value_in_topic": 0.07116564417177915
-            },
-            {
-              "name": "plantas",
-              "value": 0.0004930591180170205,
-              "value_in_topic": 0.06012269938650307
-            },
-            {
-              "name": "d\u00f3lares",
-              "value": 0.0004930591180170205,
-              "value_in_topic": 0.06012269938650307
-            },
-            {
-              "name": "odebrecht",
-              "value": 0.00046287182507720296,
-              "value_in_topic": 0.05644171779141104
-            },
-            {
-              "name": "morelos",
-              "value": 0.00046287182507720296,
-              "value_in_topic": 0.05644171779141104
-            },
-            {
-              "name": "contrato",
-              "value": 0.00038237237723768945,
-              "value_in_topic": 0.046625766871165646
-            }
-          ],
-          "value_in_group": 0.020722659564179746
-        },
-        {
-          "name": "tema_60",
-          "topic_rank": 41,
-          "topic_value": 0.00784192670177715,
-          "ts_code": "..................................",
-          "children": [
-            {
-              "name": "trabajadores",
-              "value": 0.0025686310931331276,
-              "value_in_topic": 0.32755102040816325
-            },
-            {
-              "name": "sindicatos",
-              "value": 0.0010962693450443568,
-              "value_in_topic": 0.13979591836734695
-            },
-            {
-              "name": "dirigentes",
-              "value": 0.0009202260925554818,
-              "value_in_topic": 0.11734693877551021
-            },
-            {
-              "name": "sindicato",
-              "value": 0.0008642123303999308,
-              "value_in_topic": 0.11020408163265306
-            },
-            {
-              "name": "democracia_sindical",
-              "value": 0.0005761415535999538,
-              "value_in_topic": 0.07346938775510203
-            },
-            {
-              "name": "pemex",
-              "value": 0.0004801179613332948,
-              "value_in_topic": 0.061224489795918366
-            },
-            {
-              "name": "democracia",
-              "value": 0.00042410419917774376,
-              "value_in_topic": 0.05408163265306122
-            },
-            {
-              "name": "ley",
-              "value": 0.00032007864088886325,
-              "value_in_topic": 0.04081632653061225
-            },
-            {
-              "name": "senado",
-              "value": 0.00029607274282219853,
-              "value_in_topic": 0.03775510204081633
-            },
-            {
-              "name": "dirigentes_sindicales",
-              "value": 0.00029607274282219853,
-              "value_in_topic": 0.03775510204081633
-            }
-          ],
-          "value_in_group": 0.019815623765424117
-        },
-        {
-          "name": "tema_14",
-          "topic_rank": 46,
-          "topic_value": 0.007016511541618925,
-          "ts_code": "..................................",
-          "children": [
-            {
-              "name": "salinas",
-              "value": 0.00137118447380229,
-              "value_in_topic": 0.19542253521126762
-            },
-            {
-              "name": "j\u00f3venes",
-              "value": 0.001012947088754845,
-              "value_in_topic": 0.14436619718309862
-            },
-            {
-              "name": "usted",
-              "value": 0.0008894169559798638,
-              "value_in_topic": 0.12676056338028172
-            },
-            {
-              "name": "panpartido",
-              "value": 0.0008276518895923732,
-              "value_in_topic": 0.11795774647887325
-            },
-            {
-              "name": "calder\u00f3n",
-              "value": 0.0005558855974874149,
-              "value_in_topic": 0.07922535211267608
-            },
-            {
-              "name": "zedillo",
-              "value": 0.0005435325842099169,
-              "value_in_topic": 0.07746478873239439
-            },
-            {
-              "name": "c\u00e1rcel",
-              "value": 0.0005064735443774225,
-              "value_in_topic": 0.07218309859154931
-            },
-            {
-              "name": "fox",
-              "value": 0.0004447084779899319,
-              "value_in_topic": 0.06338028169014086
-            },
-            {
-              "name": "sabe",
-              "value": 0.00043235546471243383,
-              "value_in_topic": 0.06161971830985917
-            },
-            {
-              "name": "pri",
-              "value": 0.00043235546471243383,
-              "value_in_topic": 0.06161971830985917
-            }
-          ],
-          "value_in_group": 0.017729897019181255
-        },
-        {
-          "name": "tema_50",
-          "topic_rank": 52,
-          "topic_value": 0.006684836694858087,
-          "ts_code": "........................|.........",
-          "children": [
-            {
-              "name": "organismos",
-              "value": 0.001061851316150743,
-              "value_in_topic": 0.15884476534296027
-            },
-            {
-              "name": "organismo",
-              "value": 0.0010015188550058145,
-              "value_in_topic": 0.14981949458483754
-            },
-            {
-              "name": "transparencia",
-              "value": 0.0008687874404869715,
-              "value_in_topic": 0.1299638989169675
-            },
-            {
-              "name": "crearon",
-              "value": 0.0007481225181971144,
-              "value_in_topic": 0.11191335740072202
-            },
-            {
-              "name": "instituto_transparencia",
-              "value": 0.0007119230415101572,
-              "value_in_topic": 0.10649819494584836
-            },
-            {
-              "name": "instituto",
-              "value": 0.0005671251347623287,
-              "value_in_topic": 0.08483754512635379
-            },
-            {
-              "name": "simular",
-              "value": 0.00048265968915942866,
-              "value_in_topic": 0.07220216606498195
-            },
-            {
-              "name": "fideicomisos",
-              "value": 0.00043439372024348577,
-              "value_in_topic": 0.06498194945848375
-            },
-            {
-              "name": "simulaci\u00f3n",
-              "value": 0.0004102607357855143,
-              "value_in_topic": 0.06137184115523465
-            },
-            {
-              "name": "aparatos",
-              "value": 0.0003981942435565286,
-              "value_in_topic": 0.0595667870036101
-            }
-          ],
-          "value_in_group": 0.016891793804778853
-        },
-        {
-          "name": "tema_6",
-          "topic_rank": 56,
-          "topic_value": 0.005704239201311119,
-          "ts_code": "..|...............................",
-          "children": [
-            {
-              "name": "contratos",
-              "value": 0.0008193080695650114,
-              "value_in_topic": 0.14363143631436312
-            },
-            {
-              "name": "terna",
-              "value": 0.0008038494267430302,
-              "value_in_topic": 0.14092140921409213
-            },
-            {
-              "name": "senado",
-              "value": 0.0006956389269891608,
-              "value_in_topic": 0.12195121951219512
-            },
-            {
-              "name": "senadores",
-              "value": 0.0005874284272352913,
-              "value_in_topic": 0.1029810298102981
-            },
-            {
-              "name": "experiencia",
-              "value": 0.0005410524987693472,
-              "value_in_topic": 0.09485094850948508
-            },
-            {
-              "name": "ternas",
-              "value": 0.0004792179274814218,
-              "value_in_topic": 0.08401084010840107
-            },
-            {
-              "name": "puedan",
-              "value": 0.00044830064183745916,
-              "value_in_topic": 0.07859078590785908
-            },
-            {
-              "name": "gabinete",
-              "value": 0.00044830064183745916,
-              "value_in_topic": 0.07859078590785908
-            },
-            {
-              "name": "competencia",
-              "value": 0.00044830064183745916,
-              "value_in_topic": 0.07859078590785908
-            },
-            {
-              "name": "actitud",
-              "value": 0.0004328419990154778,
-              "value_in_topic": 0.07588075880758807
-            }
-          ],
-          "value_in_group": 0.01441393960690155
-        }
-      ]
-    },
-    {
       "name": "Justicia",
-      "group_value": 0.08881179763803378,
+      "group_value": 0.12976088330067798,
       "color": "#9467BD",
       "children": [
         {
-          "name": "tema_44",
-          "topic_rank": 6,
-          "topic_value": 0.018817878972683433,
-          "ts_code": ".||||.|...........................",
+          "name": "tema_43",
+          "topic_rank": 5,
+          "topic_value": 0.027633058210357695,
+          "ts_code": "|||||||...........................",
           "children": [
             {
               "name": "corrupci\u00f3n",
-              "value": 0.0033197743777250255,
+              "value": 0.004874912776200522,
               "value_in_topic": 0.1764159702878366
             },
             {
               "name": "acerca",
-              "value": 0.002096699606984227,
+              "value": 0.003078892279705593,
               "value_in_topic": 0.11142061281337048
             },
             {
               "name": "ciudadanos",
-              "value": 0.001991864626635015,
+              "value": 0.002924947665720313,
               "value_in_topic": 0.10584958217270195
             },
             {
               "name": "respeto",
-              "value": 0.001991864626635015,
+              "value": 0.002924947665720313,
               "value_in_topic": 0.10584958217270195
             },
             {
               "name": "dar_conocer",
-              "value": 0.0018346121561111982,
+              "value": 0.0026940307447423937,
               "value_in_topic": 0.09749303621169916
             },
             {
               "name": "delito_grave",
-              "value": 0.001782194665936593,
+              "value": 0.002617058437749754,
               "value_in_topic": 0.09470752089136492
             },
             {
               "name": "austeridad",
-              "value": 0.00157252470523817,
+              "value": 0.0023091692097791947,
               "value_in_topic": 0.08356545961002786
             },
             {
               "name": "fiscal\u00eda_general",
-              "value": 0.0015201072150635643,
+              "value": 0.002232196902786555,
               "value_in_topic": 0.0807799442896936
             },
             {
               "name": "reforma",
-              "value": 0.0013977997379894845,
+              "value": 0.002052594853137062,
               "value_in_topic": 0.07428040854224699
             },
             {
               "name": "digo",
-              "value": 0.0013104372543651416,
+              "value": 0.0019243076748159955,
               "value_in_topic": 0.06963788300835655
             }
           ],
-          "value_in_group": 0.21188490125353177
+          "value_in_group": 0.2129536845578279
         },
         {
-          "name": "tema_27",
-          "topic_rank": 9,
-          "topic_value": 0.016491538696602377,
-          "ts_code": "...................|..|.|.........",
+          "name": "tema_26",
+          "topic_rank": 8,
+          "topic_value": 0.023803633372597468,
+          "ts_code": "...........|.......|.||.|.........",
           "children": [
             {
               "name": "fiscal\u00eda",
-              "value": 0.004117085961528723,
+              "value": 0.005942538570514839,
               "value_in_topic": 0.24964838255977498
             },
             {
               "name": "investigaci\u00f3n",
-              "value": 0.00273699235752332,
+              "value": 0.003950532683497189,
               "value_in_topic": 0.16596343178621661
             },
             {
               "name": "expediente",
-              "value": 0.001646834384611489,
+              "value": 0.0023770154282059357,
               "value_in_topic": 0.09985935302390998
             },
             {
               "name": "impunidad",
-              "value": 0.0014844704311990887,
+              "value": 0.0021426617944391535,
               "value_in_topic": 0.090014064697609
             },
             {
               "name": "pruebas",
-              "value": 0.0014264833049803744,
+              "value": 0.002058964068093874,
               "value_in_topic": 0.08649789029535865
             },
             {
               "name": "estados_unidos",
-              "value": 0.001275716776811717,
+              "value": 0.0018413499795961474,
               "value_in_topic": 0.07735583684950774
             },
             {
               "name": "esperar",
-              "value": 0.0010437682719368594,
+              "value": 0.0015065590742150297,
               "value_in_topic": 0.06329113924050633
             },
             {
               "name": "procedimiento",
-              "value": 0.0010205734214493738,
+              "value": 0.001473079983676918,
               "value_in_topic": 0.0618846694796062
             },
             {
               "name": "garc\u00eda_luna",
-              "value": 0.000881404318524459,
+              "value": 0.0012722054404482473,
               "value_in_topic": 0.053445850914205346
             },
             {
               "name": "general_cienfuegos",
-              "value": 0.0008582094680369732,
+              "value": 0.0012387263499101355,
               "value_in_topic": 0.052039381153305204
             }
           ],
-          "value_in_group": 0.18569085566555238
+          "value_in_group": 0.18344228836235965
         },
         {
-          "name": "tema_26",
-          "topic_rank": 12,
-          "topic_value": 0.016070705964090312,
-          "ts_code": "..................................",
+          "name": "tema_25",
+          "topic_rank": 10,
+          "topic_value": 0.023534465254610337,
+          "ts_code": ".......................|...|......",
           "children": [
             {
               "name": "poder_judicial",
-              "value": 0.005733559159063471,
+              "value": 0.008396410780941709,
               "value_in_topic": 0.3567708333333333
             },
             {
               "name": "justicia",
-              "value": 0.0015380167817195807,
+              "value": 0.00225232187007013,
               "value_in_topic": 0.095703125
             },
             {
               "name": "ley",
-              "value": 0.0014647778873519818,
+              "value": 0.0021450684476858385,
               "value_in_topic": 0.09114583333333334
             },
             {
               "name": "ministros",
-              "value": 0.0013183000986167835,
+              "value": 0.0019305616029172542,
               "value_in_topic": 0.08203125
             },
             {
               "name": "suprema_corte",
-              "value": 0.0011404342122954714,
+              "value": 0.0016700890056982598,
               "value_in_topic": 0.07096354166666667
             },
             {
               "name": "juez",
-              "value": 0.001088120716318615,
+              "value": 0.0015934794182809085,
               "value_in_topic": 0.06770833333333334
             },
             {
               "name": "jueces",
-              "value": 0.0010358072203417584,
+              "value": 0.0015168698308635569,
               "value_in_topic": 0.064453125
             },
             {
               "name": "presidente_suprema",
-              "value": 0.0009730310251695306,
+              "value": 0.0014249383259627353,
               "value_in_topic": 0.060546875
             },
             {
               "name": "reforma",
-              "value": 0.0008997921308019314,
+              "value": 0.0013176849035784431,
               "value_in_topic": 0.05598958333333333
             },
             {
               "name": "corte",
-              "value": 0.000878866732411189,
+              "value": 0.0012870410686115028,
               "value_in_topic": 0.0546875
             }
           ],
-          "value_in_group": 0.1809523778539982
+          "value_in_group": 0.18136794892245756
         },
         {
-          "name": "tema_25",
-          "topic_rank": 27,
-          "topic_value": 0.011448731025006943,
+          "name": "tema_24",
+          "topic_rank": 26,
+          "topic_value": 0.01700874065898477,
           "ts_code": ".....................|............",
           "children": [
             {
               "name": "empresas",
-              "value": 0.0019650806983220873,
+              "value": 0.0029194107101242523,
               "value_in_topic": 0.17164179104477614
             },
             {
               "name": "impuestos",
-              "value": 0.0016090878181912746,
+              "value": 0.0023905319582901486,
               "value_in_topic": 0.14054726368159207
             },
             {
               "name": "sat",
-              "value": 0.0014524509509337166,
+              "value": 0.0021578253074831426,
               "value_in_topic": 0.12686567164179105
             },
             {
               "name": "fideicomisos",
-              "value": 0.0014524509509337166,
+              "value": 0.0021578253074831426,
               "value_in_topic": 0.12686567164179105
             },
             {
               "name": "empresa",
-              "value": 0.001281574368470927,
+              "value": 0.0019039635066027735,
               "value_in_topic": 0.11194029850746272
             },
             {
               "name": "facturas_falsas",
-              "value": 0.0008116637666982535,
+              "value": 0.0012058435541817563,
               "value_in_topic": 0.07089552238805971
             },
             {
               "name": "despachos",
-              "value": 0.000768944621082556,
+              "value": 0.001142378103961664,
               "value_in_topic": 0.06716417910447763
             },
             {
               "name": "fiscal",
-              "value": 0.000711985760261626,
+              "value": 0.0010577575036682073,
               "value_in_topic": 0.06218905472636817
             },
             {
               "name": "pagaban_impuestos",
-              "value": 0.0006977460450563935,
+              "value": 0.0010366023535948433,
               "value_in_topic": 0.06094527363184081
             },
             {
               "name": "empresarios",
-              "value": 0.0006977460450563935,
+              "value": 0.0010366023535948433,
               "value_in_topic": 0.06094527363184081
             }
           ],
-          "value_in_group": 0.1289100246756407
+          "value_in_group": 0.13107756533664028
         },
         {
           "name": "tema_3",
-          "topic_rank": 29,
-          "topic_value": 0.011427728693128823,
-          "ts_code": "..................|...............",
+          "topic_rank": 27,
+          "topic_value": 0.016664596839356685,
+          "ts_code": "..................||..............",
           "children": [
             {
               "name": "corrupci\u00f3n",
-              "value": 0.0055280933875135494,
+              "value": 0.00806139610652624,
               "value_in_topic": 0.48374384236453205
             },
             {
               "name": "aduanas",
-              "value": 0.0011146257543051758,
+              "value": 0.0016254138789126224,
               "value_in_topic": 0.09753694581280788
             },
             {
               "name": "puertos",
-              "value": 0.00100203729427435,
+              "value": 0.0014612306588204385,
               "value_in_topic": 0.08768472906403942
             },
             {
               "name": "corrupto",
-              "value": 0.0007093072981942028,
+              "value": 0.0010343542865807597,
               "value_in_topic": 0.06206896551724138
             },
             {
               "name": "principal_problema",
-              "value": 0.0006867896061880376,
+              "value": 0.001001517642562323,
               "value_in_topic": 0.060098522167487685
             },
             {
               "name": "corruptos",
-              "value": 0.0005291657621448814,
+              "value": 0.0007716611344332652,
               "value_in_topic": 0.04630541871921182
             },
             {
               "name": "honestidad",
-              "value": 0.00047287153212946856,
+              "value": 0.0006895695243871731,
               "value_in_topic": 0.041379310344827586
             },
             {
               "name": "limpiar",
-              "value": 0.00047287153212946856,
+              "value": 0.0006895695243871731,
               "value_in_topic": 0.041379310344827586
             },
             {
               "name": "limpiando",
-              "value": 0.000461612686126386,
+              "value": 0.0006731512023779549,
               "value_in_topic": 0.04039408866995074
             },
             {
               "name": "colima",
-              "value": 0.0004503538401233034,
+              "value": 0.0006567328803687364,
               "value_in_topic": 0.03940886699507389
             }
           ],
-          "value_in_group": 0.12867354334729605
+          "value_in_group": 0.1284254269504469
         },
         {
-          "name": "tema_38",
-          "topic_rank": 42,
-          "topic_value": 0.007717403890258391,
+          "name": "tema_37",
+          "topic_rank": 41,
+          "topic_value": 0.011115901645957592,
           "ts_code": "................................|.",
           "children": [
             {
               "name": "yaquis",
-              "value": 0.0013253802333269846,
+              "value": 0.0019090352826753258,
               "value_in_topic": 0.17173913043478262
             },
             {
               "name": "pueblos_yaquis",
-              "value": 0.0009898409337505327,
+              "value": 0.0014257352111119522,
               "value_in_topic": 0.1282608695652174
             },
             {
               "name": "pueblos_originarios",
-              "value": 0.0008388482489411295,
+              "value": 0.001208250178908434,
               "value_in_topic": 0.10869565217391305
             },
             {
               "name": "conquista",
-              "value": 0.0007381864590681939,
+              "value": 0.0010632601574394219,
               "value_in_topic": 0.09565217391304348
             },
             {
               "name": "independencia",
-              "value": 0.0006878555641317262,
+              "value": 0.0009907651467049158,
               "value_in_topic": 0.0891304347826087
             },
             {
               "name": "culturas",
-              "value": 0.0006710785991529036,
+              "value": 0.0009666001431267473,
               "value_in_topic": 0.08695652173913045
             },
             {
               "name": "tierras",
-              "value": 0.0006375246691952584,
+              "value": 0.0009182701359704098,
               "value_in_topic": 0.08260869565217392
             },
             {
               "name": "pueblos",
-              "value": 0.0006375246691952584,
+              "value": 0.0009182701359704098,
               "value_in_topic": 0.08260869565217392
             },
             {
               "name": "mayas",
-              "value": 0.0006039707392376132,
+              "value": 0.0008699401288140725,
               "value_in_topic": 0.0782608695652174
             },
             {
               "name": "historia",
-              "value": 0.0005871937742587906,
+              "value": 0.0008457751252359038,
               "value_in_topic": 0.07608695652173914
             }
           ],
-          "value_in_group": 0.08689615676637764
+          "value_in_group": 0.08566450353301128
         },
         {
-          "name": "tema_57",
-          "topic_rank": 48,
-          "topic_value": 0.006837810396263497,
-          "ts_code": "..................................",
+          "name": "tema_56",
+          "topic_rank": 47,
+          "topic_value": 0.010000487318813436,
+          "ts_code": "......|......|....................",
           "children": [
             {
               "name": "bienes",
-              "value": 0.00150643671380676,
+              "value": 0.002203205467828089,
               "value_in_topic": 0.2203098106712564
             },
             {
               "name": "dinero",
-              "value": 0.0009297539093026097,
+              "value": 0.0013597908746751488,
               "value_in_topic": 0.13597246127366608
             },
             {
               "name": "subasta",
-              "value": 0.0008120635410364565,
+              "value": 0.0011876654475010792,
               "value_in_topic": 0.11876075731497417
             },
             {
               "name": "casa",
-              "value": 0.0007061422095969187,
+              "value": 0.0010327525630444167,
               "value_in_topic": 0.10327022375215145
             },
             {
               "name": "pueblo_robado",
-              "value": 0.0006826041359436881,
+              "value": 0.0009983274776096027,
               "value_in_topic": 0.09982788296041306
             },
             {
               "name": "d\u00f3lares",
-              "value": 0.0006002208781573808,
+              "value": 0.0008778396785877542,
               "value_in_topic": 0.08777969018932873
             },
             {
               "name": "instituto",
-              "value": 0.0004589924362379972,
+              "value": 0.0006712891659788709,
               "value_in_topic": 0.06712564543889844
             },
             {
               "name": "instituto_devolverle",
-              "value": 0.0004001472521049206,
+              "value": 0.0005852264523918361,
               "value_in_topic": 0.05851979345955249
             },
             {
               "name": "entregar",
-              "value": 0.0004001472521049206,
+              "value": 0.0005852264523918361,
               "value_in_topic": 0.05851979345955249
             },
             {
               "name": "residencias",
-              "value": 0.00034130206797184406,
+              "value": 0.0004991637388048014,
               "value_in_topic": 0.04991394148020653
             }
           ],
-          "value_in_group": 0.07699214043760326
+          "value_in_group": 0.07706858233725652
+        }
+      ]
+    },
+    {
+      "name": "Pol\u00edtica",
+      "group_value": 0.12468142075448523,
+      "color": "#D62728",
+      "children": [
+        {
+          "name": "tema_46",
+          "topic_rank": 11,
+          "topic_value": 0.023401141920318426,
+          "ts_code": ".........................||||.....",
+          "children": [
+            {
+              "name": "democracia",
+              "value": 0.006417196260866541,
+              "value_in_topic": 0.2742257742257742
+            },
+            {
+              "name": "partido",
+              "value": 0.0024897318826312812,
+              "value_in_topic": 0.1063936063936064
+            },
+            {
+              "name": "elecciones",
+              "value": 0.002431287472240875,
+              "value_in_topic": 0.10389610389610389
+            },
+            {
+              "name": "fraude",
+              "value": 0.002396220826006632,
+              "value_in_topic": 0.1023976023976024
+            },
+            {
+              "name": "candidatos",
+              "value": 0.0017533323117121698,
+              "value_in_topic": 0.07492507492507493
+            },
+            {
+              "name": "partidos",
+              "value": 0.0016948879013217641,
+              "value_in_topic": 0.07242757242757243
+            },
+            {
+              "name": "elecci\u00f3n",
+              "value": 0.0016598212550875211,
+              "value_in_topic": 0.07092907092907094
+            },
+            {
+              "name": "fraude_electoral",
+              "value": 0.001601376844697115,
+              "value_in_topic": 0.06843156843156843
+            },
+            {
+              "name": "ciudadanos",
+              "value": 0.0015195546701505473,
+              "value_in_topic": 0.06493506493506494
+            },
+            {
+              "name": "electoral",
+              "value": 0.0014377324956039792,
+              "value_in_topic": 0.06143856143856144
+            }
+          ],
+          "value_in_group": 0.18768748205394992
+        },
+        {
+          "name": "tema_54",
+          "topic_rank": 21,
+          "topic_value": 0.020020188505638976,
+          "ts_code": "...................||.............",
+          "children": [
+            {
+              "name": "consulta",
+              "value": 0.006194867370801772,
+              "value_in_topic": 0.3094310210444271
+            },
+            {
+              "name": "ciudadanos",
+              "value": 0.0023250257890414707,
+              "value_in_topic": 0.11613406079501168
+            },
+            {
+              "name": "constituci\u00f3n",
+              "value": 0.0020753585902182257,
+              "value_in_topic": 0.10366328916601714
+            },
+            {
+              "name": "revocaci\u00f3n_mandato",
+              "value": 0.0018412955913214336,
+              "value_in_topic": 0.09197194076383476
+            },
+            {
+              "name": "democracia",
+              "value": 0.0016384409922775465,
+              "value_in_topic": 0.08183943881527668
+            },
+            {
+              "name": "legisladores",
+              "value": 0.001419982193307207,
+              "value_in_topic": 0.07092751363990646
+            },
+            {
+              "name": "expresidentes",
+              "value": 0.0013107527938220375,
+              "value_in_topic": 0.06547155105222136
+            },
+            {
+              "name": "democracia_participativa",
+              "value": 0.0011547107945575092,
+              "value_in_topic": 0.05767731878409976
+            },
+            {
+              "name": "hacia_adelante",
+              "value": 0.0011391065946310562,
+              "value_in_topic": 0.0568978955572876
+            },
+            {
+              "name": "decidir",
+              "value": 0.0009206477956607168,
+              "value_in_topic": 0.04598597038191738
+            }
+          ],
+          "value_in_group": 0.16057074409716157
+        },
+        {
+          "name": "tema_42",
+          "topic_rank": 24,
+          "topic_value": 0.017608637280920682,
+          "ts_code": "......|...|.........||............",
+          "children": [
+            {
+              "name": "transformaci\u00f3n",
+              "value": 0.005224312006514292,
+              "value_in_topic": 0.2966903073286052
+            },
+            {
+              "name": "cambio",
+              "value": 0.0016443053725682436,
+              "value_in_topic": 0.09338061465721041
+            },
+            {
+              "name": "conservadurismo",
+              "value": 0.0016234913805104176,
+              "value_in_topic": 0.0921985815602837
+            },
+            {
+              "name": "movimiento",
+              "value": 0.001540235412279114,
+              "value_in_topic": 0.08747044917257683
+            },
+            {
+              "name": "democracia",
+              "value": 0.001415351459932159,
+              "value_in_topic": 0.08037825059101655
+            },
+            {
+              "name": "conservadores",
+              "value": 0.001394537467874333,
+              "value_in_topic": 0.07919621749408984
+            },
+            {
+              "name": "pol\u00edtica",
+              "value": 0.0013737234758165072,
+              "value_in_topic": 0.07801418439716312
+            },
+            {
+              "name": "pensamiento",
+              "value": 0.001290467507585204,
+              "value_in_topic": 0.07328605200945627
+            },
+            {
+              "name": "humanos",
+              "value": 0.0010615135949491193,
+              "value_in_topic": 0.060283687943262415
+            },
+            {
+              "name": "llevando_cabo",
+              "value": 0.0010406996028912933,
+              "value_in_topic": 0.0591016548463357
+            }
+          ],
+          "value_in_group": 0.1412290393738334
+        },
+        {
+          "name": "tema_11",
+          "topic_rank": 38,
+          "topic_value": 0.011938022311393645,
+          "ts_code": "..................................",
+          "children": [
+            {
+              "name": "planta",
+              "value": 0.004042814917723492,
+              "value_in_topic": 0.3386503067484663
+            },
+            {
+              "name": "millones_d\u00f3lares",
+              "value": 0.0015233795342146493,
+              "value_in_topic": 0.1276073619631902
+            },
+            {
+              "name": "empresa",
+              "value": 0.0011278867705243076,
+              "value_in_topic": 0.09447852760736197
+            },
+            {
+              "name": "pemex",
+              "value": 0.001054647369840911,
+              "value_in_topic": 0.08834355828220859
+            },
+            {
+              "name": "fertilizantes",
+              "value": 0.0008495770479274006,
+              "value_in_topic": 0.07116564417177915
+            },
+            {
+              "name": "plantas",
+              "value": 0.0007177461266972866,
+              "value_in_topic": 0.06012269938650307
+            },
+            {
+              "name": "d\u00f3lares",
+              "value": 0.0007177461266972866,
+              "value_in_topic": 0.06012269938650307
+            },
+            {
+              "name": "odebrecht",
+              "value": 0.0006738024862872487,
+              "value_in_topic": 0.05644171779141104
+            },
+            {
+              "name": "morelos",
+              "value": 0.0006738024862872487,
+              "value_in_topic": 0.05644171779141104
+            },
+            {
+              "name": "contrato",
+              "value": 0.0005566194451938142,
+              "value_in_topic": 0.046625766871165646
+            }
+          ],
+          "value_in_group": 0.09574820561999565
+        },
+        {
+          "name": "tema_2",
+          "topic_rank": 39,
+          "topic_value": 0.011691515961493874,
+          "ts_code": ".............................|....",
+          "children": [
+            {
+              "name": "votaron",
+              "value": 0.0016103408777151942,
+              "value_in_topic": 0.1377358490566038
+            },
+            {
+              "name": "mayor\u00eda",
+              "value": 0.0013456273087757101,
+              "value_in_topic": 0.11509433962264153
+            },
+            {
+              "name": "partido",
+              "value": 0.0012353299883842584,
+              "value_in_topic": 0.10566037735849057
+            },
+            {
+              "name": "presupuesto",
+              "value": 0.0011691515961493877,
+              "value_in_topic": 0.10000000000000002
+            },
+            {
+              "name": "partidos",
+              "value": 0.0011250326679928069,
+              "value_in_topic": 0.09622641509433963
+            },
+            {
+              "name": "elecciones",
+              "value": 0.001080913739836226,
+              "value_in_topic": 0.09245283018867925
+            },
+            {
+              "name": "transformaci\u00f3n",
+              "value": 0.0010588542757579357,
+              "value_in_topic": 0.09056603773584906
+            },
+            {
+              "name": "pri",
+              "value": 0.0010367948116796455,
+              "value_in_topic": 0.08867924528301888
+            },
+            {
+              "name": "conservadores",
+              "value": 0.0010147353476013552,
+              "value_in_topic": 0.08679245283018869
+            },
+            {
+              "name": "c\u00e1mara_diputados",
+              "value": 0.0010147353476013552,
+              "value_in_topic": 0.08679245283018869
+            }
+          ],
+          "value_in_group": 0.09377111594289632
+        },
+        {
+          "name": "tema_59",
+          "topic_rank": 40,
+          "topic_value": 0.01156349391170037,
+          "ts_code": "..................................",
+          "children": [
+            {
+              "name": "trabajadores",
+              "value": 0.0037876342302610396,
+              "value_in_topic": 0.32755102040816325
+            },
+            {
+              "name": "sindicatos",
+              "value": 0.0016165292509213785,
+              "value_in_topic": 0.13979591836734695
+            },
+            {
+              "name": "dirigentes",
+              "value": 0.0013569406120872885,
+              "value_in_topic": 0.11734693877551021
+            },
+            {
+              "name": "sindicato",
+              "value": 0.0012743442270037144,
+              "value_in_topic": 0.11020408163265306
+            },
+            {
+              "name": "democracia_sindical",
+              "value": 0.0008495628180024762,
+              "value_in_topic": 0.07346938775510203
+            },
+            {
+              "name": "pemex",
+              "value": 0.0007079690150020635,
+              "value_in_topic": 0.061224489795918366
+            },
+            {
+              "name": "democracia",
+              "value": 0.0006253726299184893,
+              "value_in_topic": 0.05408163265306122
+            },
+            {
+              "name": "ley",
+              "value": 0.00047197934333470905,
+              "value_in_topic": 0.04081632653061225
+            },
+            {
+              "name": "senado",
+              "value": 0.00043658089258460583,
+              "value_in_topic": 0.03775510204081633
+            },
+            {
+              "name": "dirigentes_sindicales",
+              "value": 0.00043658089258460583,
+              "value_in_topic": 0.03775510204081633
+            }
+          ],
+          "value_in_group": 0.09274432262422219
+        },
+        {
+          "name": "tema_14",
+          "topic_rank": 46,
+          "topic_value": 0.01010654918446164,
+          "ts_code": "....................|..........|.|",
+          "children": [
+            {
+              "name": "salinas",
+              "value": 0.001975047463864863,
+              "value_in_topic": 0.19542253521126762
+            },
+            {
+              "name": "j\u00f3venes",
+              "value": 0.0014590440724046737,
+              "value_in_topic": 0.14436619718309862
+            },
+            {
+              "name": "usted",
+              "value": 0.0012811118684528842,
+              "value_in_topic": 0.12676056338028172
+            },
+            {
+              "name": "panpartido",
+              "value": 0.0011921457664769892,
+              "value_in_topic": 0.11795774647887325
+            },
+            {
+              "name": "calder\u00f3n",
+              "value": 0.0008006949177830527,
+              "value_in_topic": 0.07922535211267608
+            },
+            {
+              "name": "zedillo",
+              "value": 0.0007829016973878737,
+              "value_in_topic": 0.07746478873239439
+            },
+            {
+              "name": "c\u00e1rcel",
+              "value": 0.0007295220362023368,
+              "value_in_topic": 0.07218309859154931
+            },
+            {
+              "name": "fox",
+              "value": 0.0006405559342264421,
+              "value_in_topic": 0.06338028169014086
+            },
+            {
+              "name": "sabe",
+              "value": 0.0006227627138312632,
+              "value_in_topic": 0.06161971830985917
+            },
+            {
+              "name": "pri",
+              "value": 0.0006227627138312632,
+              "value_in_topic": 0.06161971830985917
+            }
+          ],
+          "value_in_group": 0.08105898315325438
+        },
+        {
+          "name": "tema_49",
+          "topic_rank": 50,
+          "topic_value": 0.00977029399617836,
+          "ts_code": ".................|......|.........",
+          "children": [
+            {
+              "name": "organismos",
+              "value": 0.001551960057154685,
+              "value_in_topic": 0.15884476534296027
+            },
+            {
+              "name": "organismo",
+              "value": 0.0014637805084527144,
+              "value_in_topic": 0.14981949458483754
+            },
+            {
+              "name": "transparencia",
+              "value": 0.0012697855013083788,
+              "value_in_topic": 0.1299638989169675
+            },
+            {
+              "name": "crearon",
+              "value": 0.0010934264039044372,
+              "value_in_topic": 0.11191335740072202
+            },
+            {
+              "name": "instituto_transparencia",
+              "value": 0.0010405186746832548,
+              "value_in_topic": 0.10649819494584836
+            },
+            {
+              "name": "instituto",
+              "value": 0.000828887757798525,
+              "value_in_topic": 0.08483754512635379
+            },
+            {
+              "name": "simular",
+              "value": 0.000705436389615766,
+              "value_in_topic": 0.07220216606498195
+            },
+            {
+              "name": "fideicomisos",
+              "value": 0.0006348927506541894,
+              "value_in_topic": 0.06498194945848375
+            },
+            {
+              "name": "simulaci\u00f3n",
+              "value": 0.000599620931173401,
+              "value_in_topic": 0.06137184115523465
+            },
+            {
+              "name": "aparatos",
+              "value": 0.0005819850214330069,
+              "value_in_topic": 0.0595667870036101
+            }
+          ],
+          "value_in_group": 0.07836206819793468
+        },
+        {
+          "name": "tema_6",
+          "topic_rank": 55,
+          "topic_value": 0.008581577682379255,
+          "ts_code": "..|...............................",
+          "children": [
+            {
+              "name": "contratos",
+              "value": 0.001232584328363416,
+              "value_in_topic": 0.14363143631436312
+            },
+            {
+              "name": "terna",
+              "value": 0.0012093280202810873,
+              "value_in_topic": 0.14092140921409213
+            },
+            {
+              "name": "senado",
+              "value": 0.0010465338637047873,
+              "value_in_topic": 0.12195121951219512
+            },
+            {
+              "name": "senadores",
+              "value": 0.000883739707128487,
+              "value_in_topic": 0.1029810298102981
+            },
+            {
+              "name": "experiencia",
+              "value": 0.0008139707828815011,
+              "value_in_topic": 0.09485094850948508
+            },
+            {
+              "name": "ternas",
+              "value": 0.0007209455505521867,
+              "value_in_topic": 0.08401084010840107
+            },
+            {
+              "name": "puedan",
+              "value": 0.0006744329343875296,
+              "value_in_topic": 0.07859078590785908
+            },
+            {
+              "name": "gabinete",
+              "value": 0.0006744329343875296,
+              "value_in_topic": 0.07859078590785908
+            },
+            {
+              "name": "competencia",
+              "value": 0.0006744329343875296,
+              "value_in_topic": 0.07859078590785908
+            },
+            {
+              "name": "actitud",
+              "value": 0.0006511766263052009,
+              "value_in_topic": 0.07588075880758807
+            }
+          ],
+          "value_in_group": 0.0688280389367519
         }
       ]
     },
     {
       "name": "Covid-19",
-      "group_value": 0.06603341422051386,
+      "group_value": 0.11514943909643878,
       "color": "#FF9896",
       "children": [
         {
-          "name": "tema_39",
-          "topic_rank": 2,
-          "topic_value": 0.026010619439901336,
-          "ts_code": "...............||||....|..........",
+          "name": "tema_38",
+          "topic_rank": 1,
+          "topic_value": 0.0365113986603538,
+          "ts_code": "...............|||||.|||..........",
           "children": [
             {
               "name": "pandemia",
-              "value": 0.005968368588915237,
+              "value": 0.008377866025271564,
               "value_in_topic": 0.22945891783567135
             },
             {
               "name": "salud",
-              "value": 0.003909411739464129,
+              "value": 0.005487685169391854,
               "value_in_topic": 0.15030060120240482
             },
             {
               "name": "hospitales",
-              "value": 0.003179654881430825,
+              "value": 0.004463317271105375,
               "value_in_topic": 0.12224448897795592
             },
             {
               "name": "m\u00e9dicos",
-              "value": 0.0026062744929760857,
+              "value": 0.003658456779594569,
               "value_in_topic": 0.10020040080160321
             },
             {
               "name": "ciudad",
-              "value": 0.0021762392016350315,
+              "value": 0.003054811410961465,
               "value_in_topic": 0.08366733466933868
             },
             {
               "name": "especialistas",
-              "value": 0.0018895490074076623,
+              "value": 0.002652381165206063,
               "value_in_topic": 0.07264529058116233
             },
             {
               "name": "pa\u00edses",
-              "value": 0.001694078420434456,
+              "value": 0.0023779969067364705,
               "value_in_topic": 0.0651302605210421
             },
             {
               "name": "sana_distancia",
-              "value": 0.0015767960682505323,
+              "value": 0.002213366351654715,
               "value_in_topic": 0.06062124248496995
             },
             {
               "name": "covid",
-              "value": 0.0015767960682505323,
+              "value": 0.002213366351654715,
               "value_in_topic": 0.06062124248496995
             },
             {
               "name": "estados",
-              "value": 0.0014334509711368473,
+              "value": 0.002012151228777013,
               "value_in_topic": 0.05511022044088177
             }
           ],
-          "value_in_group": 0.39390087195916806
+          "value_in_group": 0.3170783891511199
         },
         {
           "name": "tema_5",
-          "topic_rank": 5,
-          "topic_value": 0.0213699789883386,
-          "ts_code": ".......................||||||.....",
+          "topic_rank": 4,
+          "topic_value": 0.02971746885896766,
+          "ts_code": ".......................||||||||...",
           "children": [
             {
               "name": "vacunas",
-              "value": 0.004938186160397143,
+              "value": 0.006867128578903496,
               "value_in_topic": 0.23108053419668154
             },
             {
               "name": "vacuna",
-              "value": 0.004721978360029492,
+              "value": 0.006566466206797387,
               "value_in_topic": 0.2209631728045326
             },
             {
               "name": "adultos_mayores",
-              "value": 0.002611790228441221,
+              "value": 0.0036320014550417783,
               "value_in_topic": 0.12221772561715905
             },
             {
               "name": "vacunaci\u00f3n",
-              "value": 0.0020755948835294476,
+              "value": 0.002886358772218632,
               "value_in_topic": 0.09712666936462971
             },
             {
               "name": "vacunar",
-              "value": 0.001712365778911794,
+              "value": 0.002381245987080371,
               "value_in_topic": 0.08012950222581951
             },
             {
               "name": "dosis",
-              "value": 0.0013058951142206105,
+              "value": 0.0018160007275208891,
               "value_in_topic": 0.06110886280857952
             },
             {
               "name": "covid",
-              "value": 0.0012194119940735504,
+              "value": 0.0016957357786784462,
               "value_in_topic": 0.05706191825171996
             },
             {
               "name": "salud",
-              "value": 0.0009859075696764875,
+              "value": 0.0013710204168038503,
               "value_in_topic": 0.046135167948199114
             },
             {
               "name": "mayores",
-              "value": 0.0009686109456470754,
+              "value": 0.0013469674270353614,
               "value_in_topic": 0.0453257790368272
             },
             {
               "name": "plan_vacunaci\u00f3n",
-              "value": 0.0008302379534117789,
+              "value": 0.0011545435088874529,
               "value_in_topic": 0.038850667745851886
             }
           ],
-          "value_in_group": 0.32362371748604557
+          "value_in_group": 0.25807740873213453
         },
         {
-          "name": "tema_49",
-          "topic_rank": 26,
-          "topic_value": 0.011522194275308493,
+          "name": "tema_60",
+          "topic_rank": 16,
+          "topic_value": 0.021344707286072812,
+          "ts_code": ".................|||.|............",
+          "children": [
+            {
+              "name": "pandemia",
+              "value": 0.004419321134715291,
+              "value_in_topic": 0.2070452911574407
+            },
+            {
+              "name": "econom\u00eda",
+              "value": 0.0029308692247590994,
+              "value_in_topic": 0.13731128684399713
+            },
+            {
+              "name": "ciento",
+              "value": 0.0020562119168466976,
+              "value_in_topic": 0.09633357296908697
+            },
+            {
+              "name": "remesas",
+              "value": 0.0019487978614890346,
+              "value_in_topic": 0.09130122214234364
+            },
+            {
+              "name": "empleos",
+              "value": 0.001918108131386845,
+              "value_in_topic": 0.08986340762041696
+            },
+            {
+              "name": "millones",
+              "value": 0.001795349210978087,
+              "value_in_topic": 0.08411214953271028
+            },
+            {
+              "name": "crisis",
+              "value": 0.0017493146158248025,
+              "value_in_topic": 0.08195542774982026
+            },
+            {
+              "name": "deuda",
+              "value": 0.0016265556954160446,
+              "value_in_topic": 0.07620416966211359
+            },
+            {
+              "name": "estados_unidos",
+              "value": 0.0015651762352116656,
+              "value_in_topic": 0.07332854061826025
+            },
+            {
+              "name": "pa\u00edses",
+              "value": 0.0013350032594452441,
+              "value_in_topic": 0.0625449317038102
+            }
+          ],
+          "value_in_group": 0.18536527362670357
+        },
+        {
+          "name": "tema_48",
+          "topic_rank": 25,
+          "topic_value": 0.017043775569012425,
           "ts_code": "..............||..................",
           "children": [
             {
               "name": "coronavirus",
-              "value": 0.002812629947925513,
+              "value": 0.004160477808801923,
               "value_in_topic": 0.24410540915395285
             },
             {
               "name": "epidemia",
-              "value": 0.0013743532700090575,
+              "value": 0.002032960747482758,
               "value_in_topic": 0.11927877947295423
             },
             {
               "name": "adultos_mayores",
-              "value": 0.0012465064541942613,
+              "value": 0.0018438481198099431,
               "value_in_topic": 0.10818307905686546
             },
             {
               "name": "plan",
-              "value": 0.0012465064541942613,
+              "value": 0.0018438481198099431,
               "value_in_topic": 0.10818307905686546
             },
             {
               "name": "crisis",
-              "value": 0.0010387553784952177,
+              "value": 0.0015365400998416194,
               "value_in_topic": 0.09015256588072122
             },
             {
               "name": "ayuda",
-              "value": 0.0010067936745415187,
+              "value": 0.0014892619429234158,
               "value_in_topic": 0.08737864077669903
             },
             {
               "name": "recursos",
-              "value": 0.0007511000429119267,
+              "value": 0.0011110366875777863,
               "value_in_topic": 0.0651872399445215
             },
             {
               "name": "empresarios",
-              "value": 0.0007191383389582276,
+              "value": 0.0010637585306595826,
               "value_in_topic": 0.0624133148404993
             },
             {
               "name": "econom\u00eda",
-              "value": 0.0006871766350045287,
+              "value": 0.001016480373741379,
               "value_in_topic": 0.059639389736477116
             },
             {
               "name": "medidas",
-              "value": 0.0006392340790739802,
+              "value": 0.0009455631383640735,
               "value_in_topic": 0.05547850208044383
             }
           ],
-          "value_in_group": 0.17449036084717578
+          "value_in_group": 0.1480144037413686
         },
         {
           "name": "tema_13",
-          "topic_rank": 45,
-          "topic_value": 0.007130621516965433,
-          "ts_code": "..............................|...",
+          "topic_rank": 44,
+          "topic_value": 0.010532088722032077,
+          "ts_code": "..............................||..",
           "children": [
             {
               "name": "guerrero",
-              "value": 0.0021295690464925663,
+              "value": 0.003145421487312084,
               "value_in_topic": 0.2986512524084778
             },
             {
               "name": "pandemia",
-              "value": 0.0008930450840130119,
+              "value": 0.0013190477204857128,
               "value_in_topic": 0.1252408477842004
             },
             {
               "name": "ni\u00f1os",
-              "value": 0.0007144360672104094,
+              "value": 0.0010552381763885702,
               "value_in_topic": 0.10019267822736029
             },
             {
               "name": "contagios",
-              "value": 0.0005083487401304836,
+              "value": 0.000750842548584175,
               "value_in_topic": 0.07129094412331406
             },
             {
               "name": "aun",
-              "value": 0.0004946095849918219,
+              "value": 0.0007305495067305486,
               "value_in_topic": 0.06936416184971098
             },
             {
               "name": "cuba",
-              "value": 0.0004946095849918219,
+              "value": 0.0007305495067305486,
               "value_in_topic": 0.06936416184971098
             },
             {
               "name": "vacunas",
-              "value": 0.00048087042985316017,
+              "value": 0.0007102564648769223,
               "value_in_topic": 0.06743737957610789
             },
             {
               "name": "mayores_a\u00f1os",
-              "value": 0.00048087042985316017,
+              "value": 0.0007102564648769223,
               "value_in_topic": 0.06743737957610789
             },
             {
               "name": "chiapas",
-              "value": 0.0004671312747144985,
+              "value": 0.000689963423023296,
               "value_in_topic": 0.06551059730250482
             },
             {
               "name": "j\u00f3venes",
-              "value": 0.0004671312747144985,
+              "value": 0.000689963423023296,
               "value_in_topic": 0.06551059730250482
             }
           ],
-          "value_in_group": 0.10798504970761066
+          "value_in_group": 0.09146452474867332
         }
       ]
     },
     {
       "name": "Pemex/CFE",
-      "group_value": 0.06237517256186331,
+      "group_value": 0.08947512265791706,
       "color": "#FF7F0E",
       "children": [
         {
           "name": "tema_8",
-          "topic_rank": 8,
-          "topic_value": 0.018089558573499493,
+          "topic_rank": 7,
+          "topic_value": 0.025570889743188,
           "ts_code": ".|.......................||......|",
           "children": [
             {
               "name": "comisi\u00f3n_federal",
-              "value": 0.004190309240331737,
+              "value": 0.005923302945123009,
               "value_in_topic": 0.23164242639233767
             },
             {
               "name": "electricidad",
-              "value": 0.0037026162812732193,
+              "value": 0.005233913934664588,
               "value_in_topic": 0.20468251152891093
             },
             {
               "name": "el\u00e9ctrica",
-              "value": 0.0017454274324199578,
+              "value": 0.0024672869847985578,
               "value_in_topic": 0.09648811635331676
             },
             {
               "name": "energ\u00eda_el\u00e9ctrica",
-              "value": 0.00169409133146643,
+              "value": 0.002394719720539777,
               "value_in_topic": 0.09365023057821922
             },
             {
               "name": "particulares",
-              "value": 0.0013026535616957775,
+              "value": 0.001841394330566571,
               "value_in_topic": 0.07201135154310039
             },
             {
               "name": "empresas",
-              "value": 0.0012705684985998224,
+              "value": 0.0017960397904048327,
               "value_in_topic": 0.07023767293366441
             },
             {
               "name": "federal_electricidad",
-              "value": 0.0012256494102654853,
+              "value": 0.0017325434341783992,
               "value_in_topic": 0.06775452288045405
             },
             {
               "name": "luz",
-              "value": 0.0010331390316897547,
+              "value": 0.0014604161932079702,
               "value_in_topic": 0.05711245122383824
             },
             {
               "name": "empresas_particulares",
-              "value": 0.0010074709812129905,
+              "value": 0.0014241325610785795,
               "value_in_topic": 0.05569350833628946
             },
             {
               "name": "energ\u00eda",
-              "value": 0.0009176328045443162,
+              "value": 0.0012971398486257126,
               "value_in_topic": 0.050727208229868745
             }
           ],
-          "value_in_group": 0.2900121607769242
+          "value_in_group": 0.2857877025880266
         },
         {
-          "name": "tema_56",
-          "topic_rank": 15,
-          "topic_value": 0.015094750129934489,
-          "ts_code": "....|.............................",
+          "name": "tema_55",
+          "topic_rank": 14,
+          "topic_value": 0.02158932044672407,
+          "ts_code": ".||.||..|.........................",
           "children": [
             {
               "name": "pemex",
-              "value": 0.004796776152401404,
+              "value": 0.006860606275292315,
               "value_in_topic": 0.31777777777777777
             },
             {
               "name": "petr\u00f3leo",
-              "value": 0.0022558265471957655,
+              "value": 0.003226404000093764,
               "value_in_topic": 0.14944444444444446
             },
             {
               "name": "contratos",
-              "value": 0.001534632929876673,
+              "value": 0.0021949142454169472,
               "value_in_topic": 0.10166666666666667
             },
             {
               "name": "producci\u00f3n",
-              "value": 0.0013920714008717361,
+              "value": 0.001991015107864553,
               "value_in_topic": 0.09222222222222222
             },
             {
               "name": "inversi\u00f3n",
-              "value": 0.0010985623705674545,
+              "value": 0.0015712227658449182,
               "value_in_topic": 0.07277777777777777
             },
             {
               "name": "empresas",
-              "value": 0.0009979307030345578,
+              "value": 0.0014272939628667577,
               "value_in_topic": 0.0661111111111111
             },
             {
               "name": "empresa",
-              "value": 0.0008972990355016615,
+              "value": 0.0012833651598885977,
               "value_in_topic": 0.05944444444444445
             },
             {
               "name": "corrupci\u00f3n",
-              "value": 0.0008302112571463969,
+              "value": 0.001187412624569824,
               "value_in_topic": 0.055
             },
             {
               "name": "reforma_energ\u00e9tica",
-              "value": 0.0006457198666694198,
+              "value": 0.0009235431524431963,
               "value_in_topic": 0.042777777777777776
             },
             {
               "name": "barriles_diarios",
-              "value": 0.0006457198666694198,
+              "value": 0.0009235431524431963,
               "value_in_topic": 0.042777777777777776
             }
           ],
-          "value_in_group": 0.24199933258643266
+          "value_in_group": 0.24128852585388186
         },
         {
-          "name": "tema_36",
-          "topic_rank": 22,
-          "topic_value": 0.013733644251991335,
+          "name": "tema_35",
+          "topic_rank": 20,
+          "topic_value": 0.020214681404383962,
           "ts_code": "|.................................",
           "children": [
             {
               "name": "ductos",
-              "value": 0.002353364536558118,
+              "value": 0.003463939611512815,
               "value_in_topic": 0.17135761589403975
             },
             {
               "name": "combustible",
-              "value": 0.0018531324611544603,
+              "value": 0.0027276432689690286,
               "value_in_topic": 0.1349337748344371
             },
             {
               "name": "pipas",
-              "value": 0.0014552205829924593,
+              "value": 0.002141952996491016,
               "value_in_topic": 0.10596026490066225
             },
             {
               "name": "plan",
-              "value": 0.0013756382073600592,
+              "value": 0.0020248149419954133,
               "value_in_topic": 0.10016556291390728
             },
             {
               "name": "gasolina",
-              "value": 0.0013529003857508022,
+              "value": 0.0019913469264252414,
               "value_in_topic": 0.09850993377483444
             },
             {
               "name": "robo_combustible",
-              "value": 0.0012960558317276591,
+              "value": 0.001907676887499811,
               "value_in_topic": 0.09437086092715231
             },
             {
               "name": "pemex",
-              "value": 0.0012619490993137734,
+              "value": 0.0018574748641445528,
               "value_in_topic": 0.09188741721854304
             },
             {
               "name": "robo",
-              "value": 0.0009777263291980587,
+              "value": 0.0014391246695174013,
               "value_in_topic": 0.07119205298013245
             },
             {
               "name": "ducto",
-              "value": 0.0009095128643702872,
+              "value": 0.0013387206228068851,
               "value_in_topic": 0.06622516556291391
             },
             {
               "name": "abasto",
-              "value": 0.0008981439535656585,
+              "value": 0.001321986615021799,
               "value_in_topic": 0.06539735099337748
             }
           ],
-          "value_in_group": 0.22017805623496098
+          "value_in_group": 0.22592516002094912
         },
         {
           "name": "tema_10",
           "topic_rank": 37,
-          "topic_value": 0.008677008371392937,
+          "topic_value": 0.012218873231692453,
           "ts_code": "..................................",
           "children": [
             {
               "name": "refiner\u00eda",
-              "value": 0.001684425635315104,
+              "value": 0.002371990716752558,
               "value_in_topic": 0.194125159642401
             },
             {
               "name": "refiner\u00edas",
-              "value": 0.0012854827216878426,
+              "value": 0.0018102034417322155,
               "value_in_topic": 0.14814814814814817
             },
             {
               "name": "petr\u00f3leo",
-              "value": 0.0011192565076764836,
+              "value": 0.0015761254104737393,
               "value_in_topic": 0.12899106002554278
             },
             {
               "name": "gasolinas",
-              "value": 0.0009308667984636101,
+              "value": 0.0013108369750474663,
               "value_in_topic": 0.10727969348659004
             },
             {
               "name": "petr\u00f3leo_crudo",
-              "value": 0.0007978858272545229,
+              "value": 0.0011235745500406853,
               "value_in_topic": 0.09195402298850575
             },
             {
               "name": "crudo",
-              "value": 0.0006205778656424067,
+              "value": 0.0008738913166983108,
               "value_in_topic": 0.07151979565772669
             },
             {
               "name": "combustibles",
-              "value": 0.0006205778656424067,
+              "value": 0.0008738913166983108,
               "value_in_topic": 0.07151979565772669
             },
             {
               "name": "gasolina",
-              "value": 0.0006205778656424067,
+              "value": 0.0008738913166983108,
               "value_in_topic": 0.07151979565772669
             },
             {
               "name": "plantas",
-              "value": 0.0005097603896348341,
+              "value": 0.0007178392958593268,
               "value_in_topic": 0.05874840357598978
             },
             {
               "name": "producci\u00f3n",
-              "value": 0.00048759689443331954,
+              "value": 0.0006866288916915299,
               "value_in_topic": 0.056194125159642394
             }
           ],
-          "value_in_group": 0.13910996980067886
+          "value_in_group": 0.13656168182532563
         },
         {
-          "name": "tema_58",
+          "name": "tema_57",
           "topic_rank": 49,
-          "topic_value": 0.006780211235045055,
-          "ts_code": "..................................",
+          "topic_value": 0.009881357831928575,
+          "ts_code": "...............................|..",
           "children": [
             {
               "name": "gas",
-              "value": 0.002284285451806846,
+              "value": 0.0033290765076616504,
               "value_in_topic": 0.3369047619047619
             },
             {
               "name": "contratos",
-              "value": 0.0009605299249647159,
+              "value": 0.001399859026189881,
               "value_in_topic": 0.14166666666666664
             },
             {
               "name": "contrato",
-              "value": 0.00079909632413031,
+              "value": 0.0011645886016201533,
               "value_in_topic": 0.11785714285714284
             },
             {
               "name": "reclusorios",
-              "value": 0.0006295910432541836,
+              "value": 0.000917554655821939,
               "value_in_topic": 0.09285714285714285
             },
             {
               "name": "pemex",
-              "value": 0.0004277990422111761,
+              "value": 0.0006234666251097791,
               "value_in_topic": 0.0630952380952381
             },
             {
               "name": "empresa",
-              "value": 0.0004197273621694558,
+              "value": 0.0006117031038812927,
               "value_in_topic": 0.0619047619047619
             },
             {
               "name": "pagar",
-              "value": 0.0003632256018774136,
+              "value": 0.0005293584552818879,
               "value_in_topic": 0.05357142857142856
             },
             {
               "name": "hacienda_p\u00fablica",
-              "value": 0.0003551539218356933,
+              "value": 0.0005175949340534015,
               "value_in_topic": 0.052380952380952375
             },
             {
               "name": "negocios",
-              "value": 0.0002905804815019309,
+              "value": 0.0004234867642255103,
               "value_in_topic": 0.04285714285714285
             },
             {
               "name": "gasoductos",
-              "value": 0.0002502220812933294,
+              "value": 0.0003646691580830784,
               "value_in_topic": 0.036904761904761905
             }
           ],
-          "value_in_group": 0.10870048060100328
-        }
-      ]
-    },
-    {
-      "name": "Econom\u00eda",
-      "group_value": 0.05983224162855212,
-      "color": "#1F77B4",
-      "children": [
-        {
-          "name": "tema_61",
-          "topic_rank": 16,
-          "topic_value": 0.01485901095587943,
-          "ts_code": ".................|.|..............",
-          "children": [
-            {
-              "name": "pandemia",
-              "value": 0.0030764882496716575,
-              "value_in_topic": 0.2070452911574407
-            },
-            {
-              "name": "econom\u00eda",
-              "value": 0.0020403099155808565,
-              "value_in_topic": 0.13731128684399713
-            },
-            {
-              "name": "ciento",
-              "value": 0.0014314216161666739,
-              "value_in_topic": 0.09633357296908697
-            },
-            {
-              "name": "remesas",
-              "value": 0.0013566458600982657,
-              "value_in_topic": 0.09130122214234364
-            },
-            {
-              "name": "empleos",
-              "value": 0.0013352813583644347,
-              "value_in_topic": 0.08986340762041696
-            },
-            {
-              "name": "millones",
-              "value": 0.0012498233514291108,
-              "value_in_topic": 0.08411214953271028
-            },
-            {
-              "name": "crisis",
-              "value": 0.0012177765988283643,
-              "value_in_topic": 0.08195542774982026
-            },
-            {
-              "name": "deuda",
-              "value": 0.0011323185918930407,
-              "value_in_topic": 0.07620416966211359
-            },
-            {
-              "name": "estados_unidos",
-              "value": 0.0010895895884253787,
-              "value_in_topic": 0.07332854061826025
-            },
-            {
-              "name": "pa\u00edses",
-              "value": 0.0009293558254216465,
-              "value_in_topic": 0.0625449317038102
-            }
-          ],
-          "value_in_group": 0.24834454721129262
-        },
-        {
-          "name": "tema_51",
-          "topic_rank": 20,
-          "topic_value": 0.013961019251554635,
-          "ts_code": "..................................",
-          "children": [
-            {
-              "name": "presupuesto",
-              "value": 0.005233153448698959,
-              "value_in_topic": 0.37484035759897827
-            },
-            {
-              "name": "deuda",
-              "value": 0.0016403751866449889,
-              "value_in_topic": 0.11749680715197956
-            },
-            {
-              "name": "a\u00f1o",
-              "value": 0.0015868846914283044,
-              "value_in_topic": 0.11366538952745849
-            },
-            {
-              "name": "millones",
-              "value": 0.001417498123242137,
-              "value_in_topic": 0.10153256704980843
-            },
-            {
-              "name": "a\u00f1o_pr\u00f3ximo",
-              "value": 0.000757782015569696,
-              "value_in_topic": 0.05427841634738186
-            },
-            {
-              "name": "austeridad",
-              "value": 0.000748866933033582,
-              "value_in_topic": 0.05363984674329502
-            },
-            {
-              "name": "c\u00e1mara_diputados",
-              "value": 0.0007042915203530116,
-              "value_in_topic": 0.05044699872286079
-            },
-            {
-              "name": "a\u00f1o_pasado",
-              "value": 0.0006953764378168975,
-              "value_in_topic": 0.04980842911877394
-            },
-            {
-              "name": "hacienda",
-              "value": 0.0006151406949918709,
-              "value_in_topic": 0.04406130268199234
-            },
-            {
-              "name": "gasto",
-              "value": 0.0005616501997751864,
-              "value_in_topic": 0.040229885057471264
-            }
-          ],
-          "value_in_group": 0.23333605547034017
-        },
-        {
-          "name": "tema_63",
-          "topic_rank": 25,
-          "topic_value": 0.01210777171860006,
-          "ts_code": "....|.|...........................",
-          "children": [
-            {
-              "name": "crecimiento",
-              "value": 0.0033087304095874037,
-              "value_in_topic": 0.2732732732732733
-            },
-            {
-              "name": "econom\u00eda",
-              "value": 0.0023876186472114227,
-              "value_in_topic": 0.19719719719719717
-            },
-            {
-              "name": "respeto",
-              "value": 0.0009817112204270318,
-              "value_in_topic": 0.08108108108108107
-            },
-            {
-              "name": "desarrollo",
-              "value": 0.00089687197915556,
-              "value_in_topic": 0.07407407407407407
-            },
-            {
-              "name": "crecer",
-              "value": 0.00089687197915556,
-              "value_in_topic": 0.07407407407407407
-            },
-            {
-              "name": "crecimiento_econ\u00f3mico",
-              "value": 0.0007635531714432469,
-              "value_in_topic": 0.06306306306306306
-            },
-            {
-              "name": "banco",
-              "value": 0.0007514332798330367,
-              "value_in_topic": 0.06206206206206206
-            },
-            {
-              "name": "bienestar",
-              "value": 0.0007393133882228264,
-              "value_in_topic": 0.06106106106106106
-            },
-            {
-              "name": "modelo",
-              "value": 0.0007029537133921956,
-              "value_in_topic": 0.058058058058058054
-            },
-            {
-              "name": "peso",
-              "value": 0.0006787139301717751,
-              "value_in_topic": 0.05605605605605605
-            }
-          ],
-          "value_in_group": 0.20236199395247453
-        },
-        {
-          "name": "tema_42",
-          "topic_rank": 43,
-          "topic_value": 0.007562356097135386,
-          "ts_code": "..................................",
-          "children": [
-            {
-              "name": "trabajadores",
-              "value": 0.0017623189724887774,
-              "value_in_topic": 0.23303834808259588
-            },
-            {
-              "name": "empresarios",
-              "value": 0.001238084847761103,
-              "value_in_topic": 0.16371681415929204
-            },
-            {
-              "name": "empresas",
-              "value": 0.0008811594862443887,
-              "value_in_topic": 0.11651917404129794
-            },
-            {
-              "name": "sector_privado",
-              "value": 0.0006803889703912369,
-              "value_in_topic": 0.08997050147492626
-            },
-            {
-              "name": "pensiones",
-              "value": 0.0005465419598224689,
-              "value_in_topic": 0.07227138643067847
-            },
-            {
-              "name": "sector_empresarial",
-              "value": 0.0005465419598224689,
-              "value_in_topic": 0.07227138643067847
-            },
-            {
-              "name": "iniciativa",
-              "value": 0.0005353880422750716,
-              "value_in_topic": 0.07079646017699115
-            },
-            {
-              "name": "subcontrataci\u00f3n",
-              "value": 0.000479618454538085,
-              "value_in_topic": 0.06342182890855458
-            },
-            {
-              "name": "empresarial",
-              "value": 0.0004573106194432903,
-              "value_in_topic": 0.06047197640117994
-            },
-            {
-              "name": "afores",
-              "value": 0.00043500278434849564,
-              "value_in_topic": 0.05752212389380531
-            }
-          ],
-          "value_in_group": 0.12639265872877822
-        },
-        {
-          "name": "tema_34",
-          "topic_rank": 54,
-          "topic_value": 0.006530282199060885,
-          "ts_code": "..................................",
-          "children": [
-            {
-              "name": "inflaci\u00f3n",
-              "value": 0.0013569417556490151,
-              "value_in_topic": 0.2077922077922078
-            },
-            {
-              "name": "salario_m\u00ednimo",
-              "value": 0.0011873240361928883,
-              "value_in_topic": 0.18181818181818182
-            },
-            {
-              "name": "salario",
-              "value": 0.0009753018868727296,
-              "value_in_topic": 0.14935064935064934
-            },
-            {
-              "name": "cumplido",
-              "value": 0.0007293561936613457,
-              "value_in_topic": 0.1116883116883117
-            },
-            {
-              "name": "a\u00f1o",
-              "value": 0.00047492961447715527,
-              "value_in_topic": 0.07272727272727272
-            },
-            {
-              "name": "aumento",
-              "value": 0.0004494869565587362,
-              "value_in_topic": 0.06883116883116883
-            },
-            {
-              "name": "m\u00ednimo",
-              "value": 0.0004070825266947045,
-              "value_in_topic": 0.06233766233766234
-            },
-            {
-              "name": "frontera",
-              "value": 0.0003731589828034792,
-              "value_in_topic": 0.05714285714285715
-            },
-            {
-              "name": "periodo_neoliberal",
-              "value": 0.00028835012307541573,
-              "value_in_topic": 0.04415584415584416
-            },
-            {
-              "name": "aumento_salario",
-              "value": 0.00028835012307541573,
-              "value_in_topic": 0.04415584415584416
-            }
-          ],
-          "value_in_group": 0.10914319807039646
-        },
-        {
-          "name": "tema_54",
-          "topic_rank": 60,
-          "topic_value": 0.004811801406321724,
-          "ts_code": "..................................",
-          "children": [
-            {
-              "name": "infonavit",
-              "value": 0.0010335611612624228,
-              "value_in_topic": 0.21479713603818618
-            },
-            {
-              "name": "cr\u00e9ditos",
-              "value": 0.0006201366967574537,
-              "value_in_topic": 0.1288782816229117
-            },
-            {
-              "name": "vivienda",
-              "value": 0.0005282645935341271,
-              "value_in_topic": 0.1097852028639618
-            },
-            {
-              "name": "cr\u00e9dito",
-              "value": 0.0004938125548253798,
-              "value_in_topic": 0.10262529832935562
-            },
-            {
-              "name": "trabajadores",
-              "value": 0.00041342446450496907,
-              "value_in_topic": 0.08591885441527446
-            },
-            {
-              "name": "unidades_habitacionales",
-              "value": 0.0004019404516020534,
-              "value_in_topic": 0.08353221957040574
-            },
-            {
-              "name": "departamentos",
-              "value": 0.0004019404516020534,
-              "value_in_topic": 0.08353221957040574
-            },
-            {
-              "name": "departamento",
-              "value": 0.0003215523612816427,
-              "value_in_topic": 0.0668257756563246
-            },
-            {
-              "name": "trabajador",
-              "value": 0.00031006834837872684,
-              "value_in_topic": 0.06443914081145585
-            },
-            {
-              "name": "pol\u00edticos",
-              "value": 0.00028710032257289525,
-              "value_in_topic": 0.05966587112171838
-            }
-          ],
-          "value_in_group": 0.08042154656671793
+          "value_in_group": 0.11043692971181682
         }
       ]
     },
     {
       "name": "Seguridad",
-      "group_value": 0.04783240513639219,
+      "group_value": 0.0686778795940511,
       "color": "#E377C2",
       "children": [
         {
           "name": "tema_12",
-          "topic_rank": 4,
-          "topic_value": 0.021420978455253065,
-          "ts_code": "............|....|................",
+          "topic_rank": 3,
+          "topic_value": 0.03038288605405929,
+          "ts_code": "|..........||....|............|...",
           "children": [
             {
               "name": "estados",
-              "value": 0.0032163000035855924,
+              "value": 0.0045619053643484505,
               "value_in_topic": 0.15014720314033364
             },
             {
               "name": "homicidios",
-              "value": 0.003195278434934706,
+              "value": 0.004532088989418068,
               "value_in_topic": 0.14916584887144257
             },
             {
               "name": "guanajuato",
-              "value": 0.0028799549051714128,
+              "value": 0.004084843365462338,
               "value_in_topic": 0.13444553483807653
             },
             {
               "name": "seguridad",
-              "value": 0.002406969610526473,
+              "value": 0.003413974929528742,
               "value_in_topic": 0.11236506378802746
             },
             {
               "name": "nacional",
-              "value": 0.0019129627472306463,
+              "value": 0.0027132901186647644,
               "value_in_topic": 0.08930323846908733
             },
             {
               "name": "violencia",
-              "value": 0.0018919411785797602,
+              "value": 0.0026834737437343827,
               "value_in_topic": 0.08832188420019627
             },
             {
               "name": "gobernador",
-              "value": 0.0018709196099288739,
+              "value": 0.002653657368804,
               "value_in_topic": 0.08734052993130519
             },
             {
               "name": "delincuencia",
-              "value": 0.0013979343152839337,
+              "value": 0.0019827889328704047,
               "value_in_topic": 0.06526005888125612
             },
             {
               "name": "guardia_nacional",
-              "value": 0.0013558911779821615,
+              "value": 0.0019231561830096407,
               "value_in_topic": 0.06329735034347399
             },
             {
               "name": "delitos",
-              "value": 0.0012928264720295027,
+              "value": 0.0018337070582184947,
               "value_in_topic": 0.060353287536800776
             }
           ],
-          "value_in_group": 0.44783402369527525
+          "value_in_group": 0.44239697313967546
         },
         {
           "name": "tema_17",
-          "topic_rank": 14,
-          "topic_value": 0.015165364546601034,
-          "ts_code": ".|.|..............................",
+          "topic_rank": 13,
+          "topic_value": 0.021766603629171967,
+          "ts_code": ".|||...|..........................",
           "children": [
             {
               "name": "guardia_nacional",
-              "value": 0.0029582466700197084,
+              "value": 0.004245923828983631,
               "value_in_topic": 0.19506597819850832
             },
             {
               "name": "elementos",
-              "value": 0.0027059256305180276,
+              "value": 0.0038837715023938508,
               "value_in_topic": 0.17842799770510614
             },
             {
               "name": "ej\u00e9rcito",
-              "value": 0.0016444371195109555,
+              "value": 0.00236023412846443,
               "value_in_topic": 0.10843373493975904
             },
             {
               "name": "polic\u00eda_federal",
-              "value": 0.0014878240605099122,
+              "value": 0.002135449925753532,
               "value_in_topic": 0.0981067125645439
             },
             {
               "name": "seguridad_p\u00fablica",
-              "value": 0.001270305923008463,
+              "value": 0.001823249644210618,
               "value_in_topic": 0.08376362593230063
             },
             {
               "name": "nacional",
-              "value": 0.0012094008445080572,
+              "value": 0.0017358335653786022,
               "value_in_topic": 0.07974756167527253
             },
             {
               "name": "secretar\u00eda_defensa",
-              "value": 0.001044087060006956,
+              "value": 0.0014985613514059875,
               "value_in_topic": 0.06884681583476765
             },
             {
               "name": "seguridad",
-              "value": 0.0009918827070066081,
+              "value": 0.0014236332838356881,
               "value_in_topic": 0.06540447504302926
             },
             {
               "name": "polic\u00edas",
-              "value": 0.0009309776285062024,
+              "value": 0.0013362172050036722,
               "value_in_topic": 0.06138841078600115
             },
             {
               "name": "secretar\u00eda_marina",
-              "value": 0.0009222769030061443,
+              "value": 0.0013237291937419555,
               "value_in_topic": 0.060814687320711415
             }
           ],
-          "value_in_group": 0.31705210104651027
+          "value_in_group": 0.31693761889319305
         },
         {
-          "name": "tema_64",
-          "topic_rank": 30,
-          "topic_value": 0.011246062134538092,
+          "name": "tema_63",
+          "topic_rank": 28,
+          "topic_value": 0.016528389910819844,
           "ts_code": ".........||.......................",
           "children": [
             {
               "name": "violencia",
-              "value": 0.0027379156505550855,
+              "value": 0.004023927386665565,
               "value_in_topic": 0.243455497382199
             },
             {
               "name": "humanos",
-              "value": 0.001795837147138282,
+              "value": 0.0026393502213612847,
               "value_in_topic": 0.15968586387434558
             },
             {
               "name": "derechos_humanos",
-              "value": 0.0010745582929597916,
+              "value": 0.0015792833291751946,
               "value_in_topic": 0.09554973821989529
             },
             {
               "name": "ej\u00e9rcito",
-              "value": 0.0009126385501850286,
+              "value": 0.0013413091288885215,
               "value_in_topic": 0.081151832460733
             },
             {
               "name": "culiac\u00e1n",
-              "value": 0.0008684786203373659,
+              "value": 0.0012764070742648835,
               "value_in_topic": 0.07722513089005237
             },
             {
               "name": "guerra",
-              "value": 0.0008243186904897033,
+              "value": 0.0012115050196412455,
               "value_in_topic": 0.07329842931937175
             },
             {
               "name": "uso_fuerza",
-              "value": 0.0007948787372579282,
+              "value": 0.0011682369832254867,
               "value_in_topic": 0.07068062827225133
             },
             {
               "name": "fuerza",
-              "value": 0.0007507188074102654,
+              "value": 0.0011033349286018485,
               "value_in_topic": 0.0667539267015707
             },
             {
               "name": "vida",
-              "value": 0.0007507188074102654,
+              "value": 0.0011033349286018485,
               "value_in_topic": 0.0667539267015707
             },
             {
               "name": "paz",
-              "value": 0.0007359988307943779,
+              "value": 0.001081700910393969,
               "value_in_topic": 0.06544502617801048
             }
           ],
-          "value_in_group": 0.2351138752582145
+          "value_in_group": 0.2406654079671315
         }
       ]
     },
     {
       "name": "Internacional",
-      "group_value": 0.04698146976817771,
+      "group_value": 0.06714253179508513,
       "color": "#DBDB8D",
       "children": [
         {
-          "name": "tema_40",
-          "topic_rank": 3,
-          "topic_value": 0.025241614844628342,
-          "ts_code": ".....|....||......|...............",
+          "name": "tema_39",
+          "topic_rank": 2,
+          "topic_value": 0.03563232192697583,
+          "ts_code": "....||....||.....||...............",
           "children": [
             {
               "name": "estados_unidos",
-              "value": 0.0063921639476974,
+              "value": 0.00902349730777362,
               "value_in_topic": 0.2532391048292108
             },
             {
               "name": "unidos",
-              "value": 0.004459649265835396,
+              "value": 0.006295463237981595,
               "value_in_topic": 0.17667844522968196
             },
             {
               "name": "gobierno_estados",
-              "value": 0.00328031979331448,
+              "value": 0.004630662959493129,
               "value_in_topic": 0.1299568119356105
             },
             {
               "name": "tratado",
-              "value": 0.0027055205546068065,
+              "value": 0.0038192476977088343,
               "value_in_topic": 0.10718492343934038
             },
             {
               "name": "relaci\u00f3n",
-              "value": 0.0017640390429304455,
+              "value": 0.0024902054585793864,
               "value_in_topic": 0.06988614055751864
             },
             {
               "name": "pol\u00edtica",
-              "value": 0.0014766394235766088,
+              "value": 0.0020844978276872393,
               "value_in_topic": 0.058500196309383586
             },
             {
               "name": "presidente_trump",
-              "value": 0.0014469084284710395,
+              "value": 0.002042528072767362,
               "value_in_topic": 0.05732234000785237
             },
             {
               "name": "pa\u00edses",
-              "value": 0.00127843278953948,
+              "value": 0.0018046994615547238,
               "value_in_topic": 0.05064782096584216
             },
             {
               "name": "canad\u00e1",
-              "value": 0.0012189707993283416,
+              "value": 0.0017207599517149693,
               "value_in_topic": 0.04829210836277974
             },
             {
               "name": "respeto",
-              "value": 0.0012189707993283416,
+              "value": 0.0017207599517149693,
               "value_in_topic": 0.04829210836277974
             }
           ],
-          "value_in_group": 0.5372674581953037
+          "value_in_group": 0.5306967279059939
         },
         {
           "name": "tema_1",
-          "topic_rank": 17,
-          "topic_value": 0.014769921542567293,
-          "ts_code": ".....|............................",
+          "topic_rank": 15,
+          "topic_value": 0.021370539201927923,
+          "ts_code": ".....|.....................|......",
           "children": [
             {
               "name": "migrantes",
-              "value": 0.0036423828863952866,
+              "value": 0.005270148933276719,
               "value_in_topic": 0.2466081404628891
             },
             {
               "name": "unidos",
-              "value": 0.001626695269652264,
+              "value": 0.0023536587469002823,
               "value_in_topic": 0.11013567438148444
             },
             {
               "name": "centroam\u00e9rica",
-              "value": 0.0016031199758891875,
+              "value": 0.002319547750568394,
               "value_in_topic": 0.10853950518754989
             },
             {
               "name": "estados_unidos",
-              "value": 0.001390942332021501,
+              "value": 0.002012548783581401,
               "value_in_topic": 0.09417398244213888
             },
             {
               "name": "migraci\u00f3n",
-              "value": 0.0013437917444953484,
+              "value": 0.0019443267909176243,
               "value_in_topic": 0.09098164405426976
             },
             {
               "name": "gobierno_estados",
-              "value": 0.0012966411569691957,
+              "value": 0.001876104798253848,
               "value_in_topic": 0.08778930566640064
             },
             {
               "name": "plan",
-              "value": 0.0012023399819168909,
+              "value": 0.0017396608129262958,
               "value_in_topic": 0.08140462889066243
             },
             {
               "name": "migratorio",
-              "value": 0.0010137376318122805,
+              "value": 0.0014667728422711906,
               "value_in_topic": 0.06863527533918597
             },
             {
               "name": "humanos",
-              "value": 0.0008722858692338226,
+              "value": 0.0012621068642798615,
               "value_in_topic": 0.059058260175578615
             },
             {
               "name": "desarrollo",
-              "value": 0.0007779846941815175,
+              "value": 0.0011256628789523089,
               "value_in_topic": 0.052673583399840386
             }
           ],
-          "value_in_group": 0.3143775964321046
+          "value_in_group": 0.3182861687007796
         },
         {
-          "name": "tema_41",
-          "topic_rank": 47,
-          "topic_value": 0.006969933380982071,
-          "ts_code": "|.................................",
+          "name": "tema_40",
+          "topic_rank": 45,
+          "topic_value": 0.010139670666181369,
+          "ts_code": "|.........|.......................",
           "children": [
             {
               "name": "pol\u00edtica_exterior",
-              "value": 0.0014237868664238906,
+              "value": 0.002071286644398094,
               "value_in_topic": 0.20427553444180518
             },
             {
               "name": "bolivia",
-              "value": 0.0008940057068243035,
+              "value": 0.0013005753348546171,
               "value_in_topic": 0.12826603325415675
             },
             {
               "name": "di\u00e1logo",
-              "value": 0.0006953377719744582,
+              "value": 0.0010115585937758133,
               "value_in_topic": 0.09976247030878857
             },
             {
               "name": "asilo",
-              "value": 0.0006953377719744582,
+              "value": 0.0010115585937758133,
               "value_in_topic": 0.09976247030878857
             },
             {
               "name": "exteriores",
-              "value": 0.0006953377719744582,
+              "value": 0.0010115585937758133,
               "value_in_topic": 0.09976247030878857
             },
             {
               "name": "libro",
-              "value": 0.000662226449499484,
+              "value": 0.000963389136929346,
               "value_in_topic": 0.09501187648456055
             },
             {
               "name": "pa\u00edses",
-              "value": 0.000496669837124613,
+              "value": 0.0007225418526970095,
               "value_in_topic": 0.07125890736342042
             },
             {
               "name": "espa\u00f1a",
-              "value": 0.000496669837124613,
+              "value": 0.0007225418526970095,
               "value_in_topic": 0.07125890736342042
             },
             {
               "name": "cuba",
-              "value": 0.0004635585146496388,
+              "value": 0.0006743723958505421,
               "value_in_topic": 0.06650831353919238
             },
             {
               "name": "postura",
-              "value": 0.00044700285341215177,
+              "value": 0.0006502876674273086,
               "value_in_topic": 0.06413301662707838
             }
           ],
-          "value_in_group": 0.14835494537259167
+          "value_in_group": 0.1510171033932265
+        }
+      ]
+    },
+    {
+      "name": "Econom\u00eda",
+      "group_value": 0.06607266047368834,
+      "color": "#1F77B4",
+      "children": [
+        {
+          "name": "tema_50",
+          "topic_rank": 19,
+          "topic_value": 0.020275200196344465,
+          "ts_code": "...........|........|.............",
+          "children": [
+            {
+              "name": "presupuesto",
+              "value": 0.007599963291988633,
+              "value_in_topic": 0.37484035759897827
+            },
+            {
+              "name": "deuda",
+              "value": 0.002382271287437664,
+              "value_in_topic": 0.11749680715197956
+            },
+            {
+              "name": "a\u00f1o",
+              "value": 0.0023045885280646963,
+              "value_in_topic": 0.11366538952745849
+            },
+            {
+              "name": "millones",
+              "value": 0.0020585931233836332,
+              "value_in_topic": 0.10153256704980843
+            },
+            {
+              "name": "a\u00f1o_pr\u00f3ximo",
+              "value": 0.0011005057577837033,
+              "value_in_topic": 0.05427841634738186
+            },
+            {
+              "name": "austeridad",
+              "value": 0.0010875586312215422,
+              "value_in_topic": 0.05363984674329502
+            },
+            {
+              "name": "c\u00e1mara_diputados",
+              "value": 0.001022822998410736,
+              "value_in_topic": 0.05044699872286079
+            },
+            {
+              "name": "a\u00f1o_pasado",
+              "value": 0.0010098758718485748,
+              "value_in_topic": 0.04980842911877394
+            },
+            {
+              "name": "hacienda",
+              "value": 0.000893351732789124,
+              "value_in_topic": 0.04406130268199234
+            },
+            {
+              "name": "gasto",
+              "value": 0.0008156689734161567,
+              "value_in_topic": 0.040229885057471264
+            }
+          ],
+          "value_in_group": 0.30686217341616684
+        },
+        {
+          "name": "tema_62",
+          "topic_rank": 23,
+          "topic_value": 0.01789102481450668,
+          "ts_code": "....|.|...|.......................",
+          "children": [
+            {
+              "name": "crecimiento",
+              "value": 0.004889138913273597,
+              "value_in_topic": 0.2732732732732733
+            },
+            {
+              "name": "econom\u00eda",
+              "value": 0.0035280599484062217,
+              "value_in_topic": 0.19719719719719717
+            },
+            {
+              "name": "respeto",
+              "value": 0.0014506236336086495,
+              "value_in_topic": 0.08108108108108107
+            },
+            {
+              "name": "desarrollo",
+              "value": 0.0013252610973708652,
+              "value_in_topic": 0.07407407407407407
+            },
+            {
+              "name": "crecer",
+              "value": 0.0013252610973708652,
+              "value_in_topic": 0.07407407407407407
+            },
+            {
+              "name": "crecimiento_econ\u00f3mico",
+              "value": 0.0011282628261400608,
+              "value_in_topic": 0.06306306306306306
+            },
+            {
+              "name": "banco",
+              "value": 0.0011103538923918058,
+              "value_in_topic": 0.06206206206206206
+            },
+            {
+              "name": "bienestar",
+              "value": 0.001092444958643551,
+              "value_in_topic": 0.06106106106106106
+            },
+            {
+              "name": "modelo",
+              "value": 0.0010387181573987862,
+              "value_in_topic": 0.058058058058058054
+            },
+            {
+              "name": "peso",
+              "value": 0.0010029002899022762,
+              "value_in_topic": 0.05605605605605605
+            }
+          ],
+          "value_in_group": 0.2707780296153096
+        },
+        {
+          "name": "tema_41",
+          "topic_rank": 43,
+          "topic_value": 0.010959784822624172,
+          "ts_code": "......................|...........",
+          "children": [
+            {
+              "name": "trabajadores",
+              "value": 0.002554050150405043,
+              "value_in_topic": 0.23303834808259588
+            },
+            {
+              "name": "empresarios",
+              "value": 0.001794301055031391,
+              "value_in_topic": 0.16371681415929204
+            },
+            {
+              "name": "empresas",
+              "value": 0.0012770250752025215,
+              "value_in_topic": 0.11651917404129794
+            },
+            {
+              "name": "sector_privado",
+              "value": 0.0009860573365487826,
+              "value_in_topic": 0.08997050147492626
+            },
+            {
+              "name": "pensiones",
+              "value": 0.0007920788441129565,
+              "value_in_topic": 0.07227138643067847
+            },
+            {
+              "name": "sector_empresarial",
+              "value": 0.0007920788441129565,
+              "value_in_topic": 0.07227138643067847
+            },
+            {
+              "name": "iniciativa",
+              "value": 0.0007759139697433042,
+              "value_in_topic": 0.07079646017699115
+            },
+            {
+              "name": "subcontrataci\u00f3n",
+              "value": 0.0006950895978950435,
+              "value_in_topic": 0.06342182890855458
+            },
+            {
+              "name": "empresarial",
+              "value": 0.000662759849155739,
+              "value_in_topic": 0.06047197640117994
+            },
+            {
+              "name": "afores",
+              "value": 0.0006304301004164347,
+              "value_in_topic": 0.05752212389380531
+            }
+          ],
+          "value_in_group": 0.16587473160685895
+        },
+        {
+          "name": "tema_33",
+          "topic_rank": 53,
+          "topic_value": 0.009576466775081935,
+          "ts_code": "..................................",
+          "children": [
+            {
+              "name": "inflaci\u00f3n",
+              "value": 0.0019899151740429997,
+              "value_in_topic": 0.2077922077922078
+            },
+            {
+              "name": "salario_m\u00ednimo",
+              "value": 0.0017411757772876246,
+              "value_in_topic": 0.18181818181818182
+            },
+            {
+              "name": "salario",
+              "value": 0.001430251531343406,
+              "value_in_topic": 0.14935064935064934
+            },
+            {
+              "name": "cumplido",
+              "value": 0.0010695794060481122,
+              "value_in_topic": 0.1116883116883117
+            },
+            {
+              "name": "a\u00f1o",
+              "value": 0.0006964703109150498,
+              "value_in_topic": 0.07272727272727272
+            },
+            {
+              "name": "aumento",
+              "value": 0.0006591594014017435,
+              "value_in_topic": 0.06883116883116883
+            },
+            {
+              "name": "m\u00ednimo",
+              "value": 0.0005969745522128999,
+              "value_in_topic": 0.06233766233766234
+            },
+            {
+              "name": "frontera",
+              "value": 0.0005472266728618249,
+              "value_in_topic": 0.05714285714285715
+            },
+            {
+              "name": "periodo_neoliberal",
+              "value": 0.0004228569744841374,
+              "value_in_topic": 0.04415584415584416
+            },
+            {
+              "name": "aumento_salario",
+              "value": 0.0004228569744841374,
+              "value_in_topic": 0.04415584415584416
+            }
+          ],
+          "value_in_group": 0.1449384163801835
+        },
+        {
+          "name": "tema_53",
+          "topic_rank": 59,
+          "topic_value": 0.007370183865131092,
+          "ts_code": "..................................",
+          "children": [
+            {
+              "name": "infonavit",
+              "value": 0.0015830943863050081,
+              "value_in_topic": 0.21479713603818618
+            },
+            {
+              "name": "cr\u00e9ditos",
+              "value": 0.0009498566317830048,
+              "value_in_topic": 0.1288782816229117
+            },
+            {
+              "name": "vivienda",
+              "value": 0.000809137130778115,
+              "value_in_topic": 0.1097852028639618
+            },
+            {
+              "name": "cr\u00e9dito",
+              "value": 0.0007563673179012817,
+              "value_in_topic": 0.10262529832935562
+            },
+            {
+              "name": "trabajadores",
+              "value": 0.0006332377545220031,
+              "value_in_topic": 0.08591885441527446
+            },
+            {
+              "name": "unidades_habitacionales",
+              "value": 0.0006156478168963921,
+              "value_in_topic": 0.08353221957040574
+            },
+            {
+              "name": "departamentos",
+              "value": 0.0006156478168963921,
+              "value_in_topic": 0.08353221957040574
+            },
+            {
+              "name": "departamento",
+              "value": 0.0004925182535171137,
+              "value_in_topic": 0.0668257756563246
+            },
+            {
+              "name": "trabajador",
+              "value": 0.0004749283158915024,
+              "value_in_topic": 0.06443914081145585
+            },
+            {
+              "name": "pol\u00edticos",
+              "value": 0.00043974844064028,
+              "value_in_topic": 0.05966587112171838
+            }
+          ],
+          "value_in_group": 0.11154664898148108
         }
       ]
     },
     {
       "name": "Prog. Sociales",
-      "group_value": 0.04436636320619334,
+      "group_value": 0.06555313632219514,
       "color": "#AEC7E8",
       "children": [
         {
           "name": "tema_9",
-          "topic_rank": 18,
-          "topic_value": 0.014755801325317008,
-          "ts_code": "..................................",
+          "topic_rank": 17,
+          "topic_value": 0.021182524864470087,
+          "ts_code": ".......|...........|..............",
           "children": [
             {
               "name": "adultos_mayores",
-              "value": 0.0024965110908032905,
+              "value": 0.0035838384571249254,
               "value_in_topic": 0.16918844566712518
             },
             {
               "name": "programa",
-              "value": 0.0023036911285054754,
+              "value": 0.0033070379258835696,
               "value_in_topic": 0.156121045392022
             },
             {
               "name": "apoyo",
-              "value": 0.001928199622978151,
+              "value": 0.0027680053124135603,
               "value_in_topic": 0.13067400275103164
             },
             {
               "name": "j\u00f3venes",
-              "value": 0.001400481831426236,
+              "value": 0.002010445963753007,
               "value_in_topic": 0.09491059147180193
             },
             {
               "name": "pesos",
-              "value": 0.0013395913170163997,
+              "value": 0.0019230352696767892,
               "value_in_topic": 0.0907840440165062
             },
             {
               "name": "becas",
-              "value": 0.0012482555454016453,
+              "value": 0.0017919192285624627,
               "value_in_topic": 0.08459422283356259
             },
             {
               "name": "bienestar",
-              "value": 0.0011163260975136666,
+              "value": 0.0016025293913973246,
               "value_in_topic": 0.07565337001375518
             },
             {
               "name": "manera_directa",
-              "value": 0.0010655840021721362,
+              "value": 0.0015296871463338097,
               "value_in_topic": 0.07221458046767538
             },
             {
               "name": "pensi\u00f3n",
-              "value": 0.0010148419068306059,
+              "value": 0.001456844901270295,
               "value_in_topic": 0.06877579092159561
             },
             {
               "name": "apoyos",
-              "value": 0.0008423187826694029,
+              "value": 0.001209181268054345,
               "value_in_topic": 0.05708390646492435
             }
           ],
-          "value_in_group": 0.33258983290424776
+          "value_in_group": 0.32313518548307896
         },
         {
           "name": "tema_4",
-          "topic_rank": 33,
-          "topic_value": 0.009713200652171919,
+          "topic_rank": 31,
+          "topic_value": 0.014555807978820143,
           "ts_code": "..................................",
           "children": [
             {
               "name": "oaxaca",
-              "value": 0.002425773315838981,
+              "value": 0.0036351653641174134,
               "value_in_topic": 0.2497398543184183
             },
             {
               "name": "banco_bienestar",
-              "value": 0.0010410610480475625,
+              "value": 0.00156009180210039,
               "value_in_topic": 0.10718002081165452
             },
             {
               "name": "comunidades",
-              "value": 0.0010107388815995752,
+              "value": 0.0015146522350489222,
               "value_in_topic": 0.1040582726326743
             },
             {
               "name": "internet",
-              "value": 0.0009096649934396178,
+              "value": 0.0013631870115440301,
               "value_in_topic": 0.09365244536940687
             },
             {
               "name": "banco",
-              "value": 0.0008591280493596391,
+              "value": 0.0012874543997915841,
               "value_in_topic": 0.08844953173777316
             },
             {
               "name": "pueblos",
-              "value": 0.0008490206605436432,
+              "value": 0.0012723078774410947,
               "value_in_topic": 0.08740894901144641
             },
             {
               "name": "ciudad",
-              "value": 0.0007883763276476687,
+              "value": 0.0011814287433381592,
               "value_in_topic": 0.08116545265348594
             },
             {
               "name": "sucursales",
-              "value": 0.0007580541611996816,
+              "value": 0.0011359891762866919,
               "value_in_topic": 0.07804370447450573
             },
             {
               "name": "bancos",
-              "value": 0.000535691607247775,
+              "value": 0.0008027656845759289,
               "value_in_topic": 0.05515088449531738
             },
             {
               "name": "remesas",
-              "value": 0.000535691607247775,
+              "value": 0.0008027656845759289,
               "value_in_topic": 0.05515088449531738
             }
           ],
-          "value_in_group": 0.2189316398783843
+          "value_in_group": 0.2220459431151855
         },
         {
-          "name": "tema_33",
-          "topic_rank": 36,
-          "topic_value": 0.008707204615816174,
+          "name": "tema_32",
+          "topic_rank": 35,
+          "topic_value": 0.01302467668794918,
           "ts_code": "...............||.................",
           "children": [
             {
               "name": "cr\u00e9ditos",
-              "value": 0.0022429251258238503,
+              "value": 0.003355080750723239,
               "value_in_topic": 0.25759416767922233
             },
             {
               "name": "cr\u00e9dito",
-              "value": 0.0010474037144177412,
+              "value": 0.0015667594071773613,
               "value_in_topic": 0.12029161603888211
             },
             {
               "name": "trabajadores",
-              "value": 0.0009627650304243885,
+              "value": 0.0014401525863953525,
               "value_in_topic": 0.11057108140947751
             },
             {
               "name": "empresas",
-              "value": 0.0007617481559401754,
+              "value": 0.001139461387038081,
               "value_in_topic": 0.08748481166464153
             },
             {
               "name": "crisis",
-              "value": 0.0007511683204410063,
+              "value": 0.0011236355344403299,
               "value_in_topic": 0.08626974483596596
             },
             {
               "name": "empresarios",
-              "value": 0.000613630458951808,
+              "value": 0.0009178994506695654,
               "value_in_topic": 0.07047387606318346
             },
             {
               "name": "pesos",
-              "value": 0.000613630458951808,
+              "value": 0.0009178994506695654,
               "value_in_topic": 0.07047387606318346
             },
             {
               "name": "dinero",
-              "value": 0.0005924707879534697,
+              "value": 0.000886247745474063,
               "value_in_topic": 0.0680437424058323
             },
             {
               "name": "millones",
-              "value": 0.0005607312814559626,
+              "value": 0.0008387701876808098,
               "value_in_topic": 0.06439854191980558
             },
             {
               "name": "peque\u00f1as_empresas",
-              "value": 0.0005607312814559626,
+              "value": 0.0008387701876808098,
               "value_in_topic": 0.06439854191980558
             }
           ],
-          "value_in_group": 0.19625689343409353
+          "value_in_group": 0.19868884112474192
         },
         {
           "name": "tema_19",
-          "topic_rank": 55,
-          "topic_value": 0.006017584336986837,
+          "topic_rank": 54,
+          "topic_value": 0.0088864990038046,
           "ts_code": "..................................",
           "children": [
             {
               "name": "campo",
-              "value": 0.0008966956911488466,
+              "value": 0.0013242000310875795,
               "value_in_topic": 0.14901256732495513
             },
             {
               "name": "productores",
-              "value": 0.0007886600657092264,
+              "value": 0.0011646578586673893,
               "value_in_topic": 0.1310592459605027
             },
             {
               "name": "ma\u00edz",
-              "value": 0.0007778565031652644,
+              "value": 0.0011487036414253701,
               "value_in_topic": 0.12926391382405744
             },
             {
               "name": "leche",
-              "value": 0.0005833923773739483,
+              "value": 0.0008615277310690276,
               "value_in_topic": 0.0969479353680431
             },
             {
               "name": "producci\u00f3n",
-              "value": 0.0005725888148299863,
+              "value": 0.0008455735138270086,
               "value_in_topic": 0.09515260323159784
             },
             {
               "name": "productor",
-              "value": 0.0005617852522860244,
+              "value": 0.0008296192965849896,
               "value_in_topic": 0.09335727109515261
             },
             {
               "name": "precio",
-              "value": 0.0005185710021101763,
+              "value": 0.0007658024276169134,
               "value_in_topic": 0.08617594254937164
             },
             {
               "name": "durango",
-              "value": 0.0004969638770222522,
+              "value": 0.0007338939931328753,
               "value_in_topic": 0.08258527827648114
             },
             {
               "name": "alimentos",
-              "value": 0.00043214250175848025,
+              "value": 0.0006381686896807612,
               "value_in_topic": 0.0718132854578097
             },
             {
               "name": "apoyar",
-              "value": 0.0003889282515826322,
+              "value": 0.0005743518207126851,
               "value_in_topic": 0.06463195691202872
             }
           ],
-          "value_in_group": 0.13563393305464375
+          "value_in_group": 0.13556176717658872
         },
         {
           "name": "tema_7",
-          "topic_rank": 59,
-          "topic_value": 0.005172572275901404,
-          "ts_code": ".|................................",
+          "topic_rank": 57,
+          "topic_value": 0.007903627787151127,
+          "ts_code": ".||...............................",
           "children": [
             {
               "name": "recursos",
-              "value": 0.0008498843966070293,
+              "value": 0.0012986130641778053,
               "value_in_topic": 0.16430594900849854
             },
             {
               "name": "estancias_infantiles",
-              "value": 0.000835231217355184,
+              "value": 0.0012762231837609465,
               "value_in_topic": 0.16147308781869685
             },
             {
               "name": "organizaciones",
-              "value": 0.00065939306633304,
+              "value": 0.0010075446187586422,
               "value_in_topic": 0.12747875354107646
             },
             {
               "name": "manera_directa",
-              "value": 0.000527514453066432,
+              "value": 0.0008060356950069137,
               "value_in_topic": 0.10198300283286117
             },
             {
               "name": "sociedad_civil",
-              "value": 0.0005128612738145867,
+              "value": 0.0007836458145900549,
               "value_in_topic": 0.09915014164305946
             },
             {
               "name": "ni\u00f1os",
-              "value": 0.00042494219830351465,
+              "value": 0.0006493065320889027,
               "value_in_topic": 0.08215297450424927
             },
             {
               "name": "solo",
-              "value": 0.00036632948129613336,
+              "value": 0.0005597470104214678,
               "value_in_topic": 0.07082152974504248
             },
             {
               "name": "oficinas",
-              "value": 0.00035167630204428795,
+              "value": 0.000537357130004609,
               "value_in_topic": 0.06798866855524077
             },
             {
               "name": "organizaci\u00f3n",
-              "value": 0.0003223699435405973,
+              "value": 0.0004925773691708917,
               "value_in_topic": 0.06232294617563738
             },
             {
               "name": "instituto",
-              "value": 0.0003223699435405973,
+              "value": 0.0004925773691708917,
               "value_in_topic": 0.06232294617563738
             }
           ],
-          "value_in_group": 0.11658770072863074
+          "value_in_group": 0.12056826310040482
         }
       ]
     },
     {
       "name": "Salud/Educ.",
-      "group_value": 0.042035319308124444,
+      "group_value": 0.06146330223777191,
       "color": "#17BECF",
       "children": [
         {
-          "name": "tema_31",
-          "topic_rank": 13,
-          "topic_value": 0.016031190934530325,
+          "name": "tema_30",
+          "topic_rank": 9,
+          "topic_value": 0.02359418656719791,
           "ts_code": "............||....................",
           "children": [
             {
               "name": "medicamentos",
-              "value": 0.003549888308135932,
+              "value": 0.005224610409602585,
               "value_in_topic": 0.22143634385201308
             },
             {
               "name": "salud",
-              "value": 0.0033405582850517487,
+              "value": 0.004916525274884004,
               "value_in_topic": 0.20837867247007616
             },
             {
               "name": "hospitales",
-              "value": 0.002032245640775607,
+              "value": 0.0029909931828928796,
               "value_in_topic": 0.1267682263329706
             },
             {
               "name": "hospital",
-              "value": 0.001308312644276142,
+              "value": 0.0019255320919911243,
               "value_in_topic": 0.08161044613710555
             },
             {
               "name": "medicinas",
-              "value": 0.0012995905599809676,
+              "value": 0.0019126952113778502,
               "value_in_topic": 0.08106637649619151
             },
             {
               "name": "atenci\u00f3n_m\u00e9dica",
-              "value": 0.0012908684756857936,
+              "value": 0.0018998583307645762,
               "value_in_topic": 0.08052230685527749
             },
             {
               "name": "corrupci\u00f3n",
-              "value": 0.0008896525981077765,
+              "value": 0.0013093618225539646,
               "value_in_topic": 0.055495103373231776
             },
             {
               "name": "sistema_salud",
-              "value": 0.0007937096708608595,
+              "value": 0.0011681561358079487,
               "value_in_topic": 0.04951033732317737
             },
             {
               "name": "m\u00e9dicos",
-              "value": 0.0007762655022705108,
+              "value": 0.0011424823745814004,
               "value_in_topic": 0.04842219804134929
             },
             {
               "name": "atenci\u00f3n",
-              "value": 0.0007500992493849881,
+              "value": 0.001103971732741578,
               "value_in_topic": 0.046789989118607184
             }
           ],
-          "value_in_group": 0.38137431089840373
+          "value_in_group": 0.38387437231932914
         },
         {
-          "name": "tema_62",
+          "name": "tema_61",
           "topic_rank": 32,
-          "topic_value": 0.010038572553371882,
-          "ts_code": "..................................",
+          "topic_value": 0.014468100332262993,
+          "ts_code": "...................|...........|..",
           "children": [
             {
               "name": "escuelas",
-              "value": 0.0016781500945213823,
+              "value": 0.0024186351008616885,
               "value_in_topic": 0.16717019133937563
             },
             {
               "name": "escuela",
-              "value": 0.0013243232673632594,
+              "value": 0.0019086819169450676,
               "value_in_topic": 0.13192346424974824
             },
             {
               "name": "educaci\u00f3n",
-              "value": 0.0011929018744188137,
+              "value": 0.0017192707343474654,
               "value_in_topic": 0.11883182275931521
             },
             {
               "name": "fin",
-              "value": 0.0009704964402051366,
+              "value": 0.0013987287330284464,
               "value_in_topic": 0.09667673716012085
             },
             {
               "name": "maestros",
-              "value": 0.0009300590885299225,
+              "value": 0.001340448369152261,
               "value_in_topic": 0.09264853977844914
             },
             {
               "name": "maestras_maestros",
-              "value": 0.0008997310747735122,
+              "value": 0.0012967380962451223,
               "value_in_topic": 0.08962739174219538
             },
             {
               "name": "programa",
-              "value": 0.0007986376955854771,
+              "value": 0.001151037186554659,
               "value_in_topic": 0.07955689828801611
             },
             {
               "name": "sinaloa",
-              "value": 0.00077841901974787,
+              "value": 0.0011218970046165664,
               "value_in_topic": 0.07754279959718026
             },
             {
               "name": "ni\u00f1os",
-              "value": 0.0007480910059914595,
+              "value": 0.0010781867317094273,
               "value_in_topic": 0.07452165156092648
             },
             {
               "name": "clases",
-              "value": 0.0007177629922350489,
+              "value": 0.0010344764588022884,
               "value_in_topic": 0.0715005035246727
             }
           ],
-          "value_in_group": 0.23881280595938428
+          "value_in_group": 0.23539412634050935
         },
         {
-          "name": "tema_32",
-          "topic_rank": 34,
-          "topic_value": 0.00939818035487967,
-          "ts_code": "..................................",
+          "name": "tema_31",
+          "topic_rank": 33,
+          "topic_value": 0.013809387377404272,
+          "ts_code": "..|.|...|.........................",
           "children": [
             {
               "name": "maestros",
-              "value": 0.0025353704315980905,
+              "value": 0.003725392694446006,
               "value_in_topic": 0.26977248104008666
             },
             {
               "name": "educaci\u00f3n",
-              "value": 0.0013135051633580467,
+              "value": 0.0019300227212190148,
               "value_in_topic": 0.1397616468039003
             },
             {
               "name": "reforma_educativa",
-              "value": 0.001048767688572704,
+              "value": 0.0015410258936865004,
               "value_in_topic": 0.11159263271939326
             },
             {
               "name": "educaci\u00f3n_p\u00fablica",
-              "value": 0.0009367633723173669,
+              "value": 0.0013764503128073596,
               "value_in_topic": 0.09967497291440953
             },
             {
               "name": "maestro",
-              "value": 0.0008145768454933625,
+              "value": 0.0011969133154846607,
               "value_in_topic": 0.0866738894907909
             },
             {
               "name": "educativa",
-              "value": 0.0006312970552573559,
+              "value": 0.0009276078195006119,
               "value_in_topic": 0.06717226435536294
             },
             {
               "name": "escuela",
-              "value": 0.0006109326341200218,
+              "value": 0.0008976849866134954,
               "value_in_topic": 0.06500541711809317
             },
             {
               "name": "mal_llamada",
-              "value": 0.0005192927390020186,
+              "value": 0.0007630322386214712,
               "value_in_topic": 0.0552546045503792
             },
             {
               "name": "normales",
-              "value": 0.0005091105284333516,
+              "value": 0.0007480708221779129,
               "value_in_topic": 0.054171180931744306
             },
             {
               "name": "derecho",
-              "value": 0.0004785638967273504,
+              "value": 0.000703186572847238,
               "value_in_topic": 0.05092091007583965
             }
           ],
-          "value_in_group": 0.22357818400259472
+          "value_in_group": 0.22467695152438125
         },
         {
-          "name": "tema_30",
-          "topic_rank": 53,
-          "topic_value": 0.006567375465342564,
+          "name": "tema_29",
+          "topic_rank": 52,
+          "topic_value": 0.009591627960906738,
           "ts_code": "..................................",
           "children": [
             {
               "name": "campa\u00f1a",
-              "value": 0.0010090498761854462,
+              "value": 0.0014737136710768167,
               "value_in_topic": 0.15364583333333334
             },
             {
               "name": "enfermedades",
-              "value": 0.0007867168526191613,
+              "value": 0.0011489970994836196,
               "value_in_topic": 0.11979166666666666
             },
             {
               "name": "ejercicio",
-              "value": 0.0006669990706988541,
+              "value": 0.0009741497147795906,
               "value_in_topic": 0.1015625
             },
             {
               "name": "alimentos",
-              "value": 0.0006498965304245246,
+              "value": 0.0009491715169647292,
               "value_in_topic": 0.09895833333333333
             },
             {
               "name": "deporte",
-              "value": 0.0006498965304245246,
+              "value": 0.0009491715169647292,
               "value_in_topic": 0.09895833333333333
             },
             {
               "name": "obesidad",
-              "value": 0.0005985889096015357,
+              "value": 0.0008742369235201454,
               "value_in_topic": 0.09114583333333333
             },
             {
               "name": "productos",
-              "value": 0.0005814863693272063,
+              "value": 0.0008492587257052841,
               "value_in_topic": 0.08854166666666667
             },
             {
               "name": "alimentaci\u00f3n",
-              "value": 0.0005472812887785471,
+              "value": 0.0007993023300755616,
               "value_in_topic": 0.08333333333333334
             },
             {
               "name": "frutas",
-              "value": 0.0005472812887785471,
+              "value": 0.0007993023300755616,
               "value_in_topic": 0.08333333333333334
             },
             {
               "name": "comer",
-              "value": 0.0005301787485042173,
+              "value": 0.0007743241322607001,
               "value_in_topic": 0.08072916666666666
             }
           ],
-          "value_in_group": 0.15623469913961718
+          "value_in_group": 0.15605454981578032
         }
       ]
     },
     {
       "name": "Medios/ONGs",
-      "group_value": 0.034638952781333304,
+      "group_value": 0.04992601129310037,
       "color": "#C5B0D5",
       "children": [
         {
           "name": "tema_16",
-          "topic_rank": 7,
-          "topic_value": 0.01838570666760314,
+          "topic_rank": 6,
+          "topic_value": 0.026840361891158585,
           "ts_code": "...|..............................",
           "children": [
             {
               "name": "medios",
-              "value": 0.004336741544477013,
+              "value": 0.006330989316134864,
               "value_in_topic": 0.23587570621468928
             },
             {
               "name": "redes_sociales",
-              "value": 0.0022722448212080153,
+              "value": 0.0033171351207293446,
               "value_in_topic": 0.12358757062146893
             },
             {
               "name": "prensa",
-              "value": 0.001869732881451167,
+              "value": 0.0027295283279144323,
               "value_in_topic": 0.1016949152542373
             },
             {
               "name": "periodistas",
-              "value": 0.001713921807996903,
+              "value": 0.002502067633921563,
               "value_in_topic": 0.09322033898305085
             },
             {
               "name": "conservadores",
-              "value": 0.0016490005273909595,
+              "value": 0.0024072923447578673,
               "value_in_topic": 0.08968926553672316
             },
             {
               "name": "respeto",
-              "value": 0.0014931894539366958,
+              "value": 0.002179831650764998,
               "value_in_topic": 0.08121468926553672
             },
             {
               "name": "peri\u00f3dico",
-              "value": 0.0013503626366036206,
+              "value": 0.001971326014604868,
               "value_in_topic": 0.07344632768361582
             },
             {
               "name": "libertad",
-              "value": 0.001285441355997677,
+              "value": 0.001876550725441172,
               "value_in_topic": 0.06991525423728813
             },
             {
               "name": "periodismo",
-              "value": 0.0012335043315129224,
+              "value": 0.0018007304941102156,
               "value_in_topic": 0.06709039548022598
             },
             {
               "name": "peri\u00f3dicos",
-              "value": 0.001181567307028168,
+              "value": 0.0017249102627792594,
               "value_in_topic": 0.06426553672316385
             }
           ],
-          "value_in_group": 0.5307812503359245
+          "value_in_group": 0.537602768496506
         },
         {
           "name": "tema_20",
-          "topic_rank": 11,
-          "topic_value": 0.016253246113730163,
-          "ts_code": "............................||....",
+          "topic_rank": 12,
+          "topic_value": 0.02308564940194178,
+          "ts_code": "....................|.......|||||.",
           "children": [
             {
               "name": "reforma",
-              "value": 0.0034917006373008097,
+              "value": 0.00495951246693842,
               "value_in_topic": 0.21483097055616143
             },
             {
               "name": "peri\u00f3dico",
-              "value": 0.0018610587153126143,
+              "value": 0.0026433949696879904,
               "value_in_topic": 0.11450381679389314
             },
             {
               "name": "universal",
-              "value": 0.0016129175532709325,
+              "value": 0.0022909423070629252,
               "value_in_topic": 0.09923664122137406
             },
             {
               "name": "medios_informaci\u00f3n",
-              "value": 0.0015242957096846172,
+              "value": 0.0021650663561254015,
               "value_in_topic": 0.09378407851690294
             },
             {
               "name": "periodismo",
-              "value": 0.0014533982348155655,
+              "value": 0.0020643655953753834,
               "value_in_topic": 0.08942202835332608
             },
             {
               "name": "intelectuales_org\u00e1nicos",
-              "value": 0.0013825007599465133,
+              "value": 0.0019636648346253644,
               "value_in_topic": 0.08505997818974918
             },
             {
               "name": "grupo",
-              "value": 0.0013825007599465133,
+              "value": 0.0019636648346253644,
               "value_in_topic": 0.08505997818974918
             },
             {
               "name": "favor",
-              "value": 0.0012229814414911465,
+              "value": 0.0017370881229378222,
               "value_in_topic": 0.0752453653217012
             },
             {
               "name": "krauze",
-              "value": 0.0011698083353393577,
+              "value": 0.0016615625523753086,
               "value_in_topic": 0.07197382769901856
             },
             {
               "name": "transformaci\u00f3n",
-              "value": 0.0011520839666220948,
+              "value": 0.0016363873621878038,
               "value_in_topic": 0.07088331515812434
             }
           ],
-          "value_in_group": 0.4692187496640755
+          "value_in_group": 0.4623972315034939
         }
       ]
     },
     {
       "name": "Estados",
-      "group_value": 0.024170155139680755,
+      "group_value": 0.035728694960094114,
       "color": "#BCBD22",
       "children": [
         {
-          "name": "tema_48",
-          "topic_rank": 50,
-          "topic_value": 0.0067567690270823,
-          "ts_code": "..................................",
+          "name": "tema_47",
+          "topic_rank": 48,
+          "topic_value": 0.00998464815783575,
+          "ts_code": ".............................|....",
           "children": [
             {
               "name": "sonora",
-              "value": 0.002658400928688118,
+              "value": 0.003928386160459967,
               "value_in_topic": 0.39344262295081966
             },
             {
               "name": "baja_california",
-              "value": 0.0009876697894778772,
+              "value": 0.0014595045804486684,
               "value_in_topic": 0.14617486338797814
             },
             {
               "name": "hermosillo",
-              "value": 0.000609216879491027,
+              "value": 0.0009002551617720757,
               "value_in_topic": 0.0901639344262295
             },
             {
               "name": "sinaloa",
-              "value": 0.000489219615348855,
+              "value": 0.0007229321753624245,
               "value_in_topic": 0.07240437158469945
             },
             {
               "name": "san_luis",
-              "value": 0.00036922235120668304,
+              "value": 0.0005456091889527732,
               "value_in_topic": 0.0546448087431694
             },
             {
               "name": "tijuana",
-              "value": 0.0003507612336463489,
+              "value": 0.0005183287295051346,
               "value_in_topic": 0.051912568306010924
             },
             {
               "name": "agua",
-              "value": 0.0003507612336463489,
+              "value": 0.0005183287295051346,
               "value_in_topic": 0.051912568306010924
             },
             {
               "name": "pueblos_yaquis",
-              "value": 0.0003230695573058477,
+              "value": 0.0004774080403336766,
               "value_in_topic": 0.04781420765027322
             },
             {
               "name": "r\u00edo_colorado",
-              "value": 0.00031383899852568064,
+              "value": 0.00046376781060985725,
               "value_in_topic": 0.04644808743169399
             },
             {
               "name": "cajeme",
-              "value": 0.0003046084397455135,
+              "value": 0.0004501275808860379,
               "value_in_topic": 0.04508196721311475
             }
           ],
-          "value_in_group": 0.2795500892747495
+          "value_in_group": 0.27945739884951704
         },
         {
-          "name": "tema_28",
-          "topic_rank": 57,
-          "topic_value": 0.005543872634138449,
+          "name": "tema_27",
+          "topic_rank": 56,
+          "topic_value": 0.007960219098499055,
           "ts_code": "..................................",
           "children": [
             {
               "name": "nayarit",
-              "value": 0.0009372734309514645,
+              "value": 0.0013457924375160275,
               "value_in_topic": 0.16906474820143885
             },
             {
               "name": "baja_california",
-              "value": 0.0007777375278107896,
+              "value": 0.0011167213843218098,
               "value_in_topic": 0.14028776978417265
             },
             {
               "name": "sur",
-              "value": 0.0006481146065089913,
+              "value": 0.0009306011536015082,
               "value_in_topic": 0.11690647482014388
             },
             {
               "name": "quintana_roo",
-              "value": 0.0006182016246701148,
+              "value": 0.0008876503311275924,
               "value_in_topic": 0.11151079136690646
             },
             {
               "name": "turismo",
-              "value": 0.0005882886428312383,
+              "value": 0.0008446995086536767,
               "value_in_topic": 0.10611510791366906
             },
             {
               "name": "san_luis",
-              "value": 0.000518491685207193,
+              "value": 0.0007444809228812065,
               "value_in_topic": 0.0935251798561151
             },
             {
               "name": "cabos",
-              "value": 0.0004088107517979792,
+              "value": 0.0005869945738101822,
               "value_in_topic": 0.0737410071942446
             },
             {
               "name": "sargazo",
-              "value": 0.0003788977699591026,
+              "value": 0.0005440437513362663,
               "value_in_topic": 0.06834532374100719
             },
             {
               "name": "playas",
-              "value": 0.0003489847881202261,
+              "value": 0.0005010929288623506,
               "value_in_topic": 0.06294964028776978
             },
             {
               "name": "potos\u00ed",
-              "value": 0.00031907180628134956,
+              "value": 0.00045814210638843477,
               "value_in_topic": 0.05755395683453236
             }
           ],
-          "value_in_group": 0.22936851675548137
+          "value_in_group": 0.22279624563365488
         },
         {
           "name": "tema_15",
           "topic_rank": 58,
-          "topic_value": 0.005326641982125177,
-          "ts_code": "..................................",
+          "topic_value": 0.007828967383002702,
+          "ts_code": "...................|..............",
           "children": [
             {
               "name": "estados",
-              "value": 0.000988547971457465,
+              "value": 0.0014529434963050057,
               "value_in_topic": 0.18558558558558555
             },
             {
               "name": "federaci\u00f3n",
-              "value": 0.0006238409528615071,
+              "value": 0.0009169060899012172,
               "value_in_topic": 0.1171171171171171
             },
             {
               "name": "nuevo_le\u00f3n",
-              "value": 0.0005758531872567758,
+              "value": 0.0008463748522165081,
               "value_in_topic": 0.10810810810810809
             },
             {
               "name": "jalisco",
-              "value": 0.0005662556341358296,
+              "value": 0.0008322686046795663,
               "value_in_topic": 0.10630630630630629
             },
             {
               "name": "f\u00f3rmula",
-              "value": 0.0005566580810148833,
+              "value": 0.0008181623571426246,
               "value_in_topic": 0.10450450450450449
             },
             {
               "name": "gobernadores",
-              "value": 0.0004990727622892058,
+              "value": 0.0007335248719209737,
               "value_in_topic": 0.09369369369369368
             },
             {
               "name": "gobierno_federal",
-              "value": 0.00045108499668447435,
+              "value": 0.0006629936342362647,
               "value_in_topic": 0.08468468468468467
             },
             {
               "name": "participaciones",
-              "value": 0.00036470701859595803,
+              "value": 0.0005360374064037885,
               "value_in_topic": 0.06846846846846846
             },
             {
               "name": "baches",
-              "value": 0.0003551094654750117,
+              "value": 0.0005219311588668467,
               "value_in_topic": 0.06666666666666665
             },
             {
               "name": "corresponde",
-              "value": 0.0003455119123540655,
+              "value": 0.0005078249113299049,
               "value_in_topic": 0.06486486486486485
             }
           ],
-          "value_in_group": 0.22038095954875747
+          "value_in_group": 0.21912267973255073
         },
         {
-          "name": "tema_46",
-          "topic_rank": 62,
-          "topic_value": 0.002691958704889953,
+          "name": "tema_45",
+          "topic_rank": 61,
+          "topic_value": 0.0042439303896437495,
           "ts_code": "..................................",
           "children": [
             {
               "name": "puebla",
-              "value": 0.001137244586557788,
+              "value": 0.0017928903785126003,
               "value_in_topic": 0.4224598930481284
             },
             {
               "name": "espacio",
-              "value": 0.0002303280175306912,
+              "value": 0.00036311703868609625,
               "value_in_topic": 0.08556149732620322
             },
             {
               "name": "bosque",
-              "value": 0.00021593251643502303,
+              "value": 0.0003404222237682153,
               "value_in_topic": 0.08021390374331552
             },
             {
               "name": "proyecto",
-              "value": 0.00020153701533935482,
+              "value": 0.0003177274088503342,
               "value_in_topic": 0.07486631016042782
             },
             {
               "name": "renuncia",
-              "value": 0.00020153701533935482,
+              "value": 0.0003177274088503342,
               "value_in_topic": 0.07486631016042782
             },
             {
               "name": "gabriel",
-              "value": 0.00017274601314801842,
+              "value": 0.0002723377790145722,
               "value_in_topic": 0.06417112299465241
             },
             {
               "name": "gobernador_puebla",
-              "value": 0.000143955010956682,
+              "value": 0.00022694814917881016,
               "value_in_topic": 0.05347593582887701
             },
             {
               "name": "claudia",
-              "value": 0.0001295595098610138,
+              "value": 0.00020425333426092913,
               "value_in_topic": 0.04812834224598931
             },
             {
               "name": "dictamen",
-              "value": 0.0001295595098610138,
+              "value": 0.00020425333426092913,
               "value_in_topic": 0.04812834224598931
             },
             {
               "name": "expres\u00e9",
-              "value": 0.0001295595098610138,
+              "value": 0.00020425333426092913,
               "value_in_topic": 0.04812834224598931
             }
           ],
-          "value_in_group": 0.11137531759034912
+          "value_in_group": 0.11878212720570554
         },
         {
-          "name": "tema_59",
-          "topic_rank": 64,
-          "topic_value": 0.002518665878896861,
+          "name": "tema_58",
+          "topic_rank": 63,
+          "topic_value": 0.0036613563541711865,
           "ts_code": "..................................",
           "children": [
             {
               "name": "veracruz",
-              "value": 0.0013485770060235156,
+              "value": 0.0019604112762491386,
               "value_in_topic": 0.5354330708661416
             },
             {
               "name": "paisanos",
-              "value": 0.0003173122367114154,
+              "value": 0.00046127324147038546,
               "value_in_topic": 0.12598425196850388
             },
             {
               "name": "veracruzanos",
-              "value": 0.00015204544675755325,
+              "value": 0.00022102676153789308,
               "value_in_topic": 0.060367454068241455
             },
             {
               "name": "cuitl\u00e1huac",
-              "value": 0.00013882410356124425,
+              "value": 0.00020180704314329368,
               "value_in_topic": 0.05511811023622046
             },
             {
               "name": "oficina",
-              "value": 0.00011238141716862628,
+              "value": 0.00016336760635409485,
               "value_in_topic": 0.044619422572178456
             },
             {
               "name": "michoac\u00e1n",
-              "value": 0.00010577074557047181,
+              "value": 0.00015375774715679517,
               "value_in_topic": 0.041994750656167965
             },
             {
               "name": "llamadas",
-              "value": 0.00010577074557047181,
+              "value": 0.00015375774715679517,
               "value_in_topic": 0.041994750656167965
             },
             {
               "name": "santa_anna",
-              "value": 9.254940237416284e-05,
+              "value": 0.00013453802876219577,
               "value_in_topic": 0.03674540682414697
             },
             {
               "name": "ca\u00f1eros",
-              "value": 7.932805917785384e-05,
+              "value": 0.00011531831036759637,
               "value_in_topic": 0.03149606299212597
             },
             {
               "name": "veracruzano",
-              "value": 6.610671598154489e-05,
+              "value": 9.609859197299699e-05,
               "value_in_topic": 0.02624671916010498
             }
           ],
-          "value_in_group": 0.10420561491398553
+          "value_in_group": 0.10247663280902387
         },
         {
-          "name": "tema_45",
-          "topic_rank": 65,
-          "topic_value": 0.0013322469125480148,
-          "ts_code": "..................................",
+          "name": "tema_44",
+          "topic_rank": 64,
+          "topic_value": 0.0020495735769416722,
+          "ts_code": "................|.................",
           "children": [
             {
               "name": "canc\u00fan",
-              "value": 0.00020138616119911855,
+              "value": 0.00030981926163071793,
               "value_in_topic": 0.15116279069767444
             },
             {
               "name": "reuni\u00f3n_seguridad",
-              "value": 0.00015491243169162968,
+              "value": 0.00023832250894670614,
               "value_in_topic": 0.11627906976744189
             },
             {
               "name": "examen",
-              "value": 0.00013942118852246669,
+              "value": 0.0002144902580520355,
               "value_in_topic": 0.1046511627906977
             },
             {
               "name": "becas",
-              "value": 0.00013942118852246669,
+              "value": 0.0002144902580520355,
               "value_in_topic": 0.1046511627906977
             },
             {
               "name": "walmart",
-              "value": 0.00013942118852246669,
+              "value": 0.0002144902580520355,
               "value_in_topic": 0.1046511627906977
             },
             {
               "name": "gobernador",
-              "value": 0.00012392994535330375,
+              "value": 0.00019065800715736491,
               "value_in_topic": 0.09302325581395351
             },
             {
               "name": "temporada",
-              "value": 0.00010843870218414077,
+              "value": 0.0001668257562626943,
               "value_in_topic": 0.08139534883720932
             },
             {
               "name": "luz",
-              "value": 0.00010843870218414077,
+              "value": 0.0001668257562626943,
               "value_in_topic": 0.08139534883720932
             },
             {
               "name": "dar_banderazo",
-              "value": 0.00010843870218414077,
+              "value": 0.0001668257562626943,
               "value_in_topic": 0.08139534883720932
             },
             {
               "name": "nueva_etapa",
-              "value": 0.00010843870218414077,
+              "value": 0.0001668257562626943,
               "value_in_topic": 0.08139534883720932
             }
           ],
-          "value_in_group": 0.05511950191667704
+          "value_in_group": 0.057364915769547976
         }
       ]
     },
     {
       "name": "Obras",
-      "group_value": 0.020430514551248766,
+      "group_value": 0.029508616500751355,
       "color": "#FFBB78",
       "children": [
         {
-          "name": "tema_24",
-          "topic_rank": 28,
-          "topic_value": 0.011447929409048676,
-          "ts_code": "..................................",
+          "name": "tema_23",
+          "topic_rank": 29,
+          "topic_value": 0.016317724495552424,
+          "ts_code": ".................|................",
           "children": [
             {
               "name": "sureste",
-              "value": 0.0017982135692752256,
+              "value": 0.002563149418479467,
               "value_in_topic": 0.15707762557077623
             },
             {
               "name": "tren_maya",
-              "value": 0.001704120998789894,
+              "value": 0.0024290311349543787,
               "value_in_topic": 0.14885844748858446
             },
             {
               "name": "tren",
-              "value": 0.0012336581463632363,
+              "value": 0.001758439717328937,
               "value_in_topic": 0.10776255707762557
             },
             {
               "name": "quintana_roo",
-              "value": 0.0012232034163093106,
+              "value": 0.0017435376858261494,
               "value_in_topic": 0.10684931506849316
             },
             {
               "name": "maya",
-              "value": 0.001045473005392573,
+              "value": 0.0014902031502787602,
               "value_in_topic": 0.091324200913242
             },
             {
               "name": "obra",
-              "value": 0.0010245635452847215,
+              "value": 0.0014603990872731848,
               "value_in_topic": 0.08949771689497715
             },
             {
               "name": "campeche",
-              "value": 0.0009304709747993902,
+              "value": 0.0013262808037480967,
               "value_in_topic": 0.08127853881278539
             },
             {
               "name": "palenque",
-              "value": 0.0008363784043140585,
+              "value": 0.0011921625202230082,
               "value_in_topic": 0.0730593607305936
             },
             {
               "name": "yucat\u00e1n",
-              "value": 0.0008259236742601326,
+              "value": 0.0011772604887202204,
               "value_in_topic": 0.07214611872146118
             },
             {
               "name": "istmo",
-              "value": 0.0008259236742601326,
+              "value": 0.0011772604887202204,
               "value_in_topic": 0.07214611872146118
             }
           ],
-          "value_in_group": 0.5603348550195447
+          "value_in_group": 0.5529816857098989
         },
         {
-          "name": "tema_22",
-          "topic_rank": 35,
-          "topic_value": 0.008982585142200092,
-          "ts_code": "..................................",
+          "name": "tema_21",
+          "topic_rank": 34,
+          "topic_value": 0.01319089200519893,
+          "ts_code": ".........................|........",
           "children": [
             {
               "name": "aeropuerto",
-              "value": 0.00205913081332826,
+              "value": 0.0030238257420555684,
               "value_in_topic": 0.22923588039867107
             },
             {
               "name": "santa_luc\u00eda",
-              "value": 0.0012832264488857274,
+              "value": 0.0018844131435998472,
               "value_in_topic": 0.14285714285714285
             },
             {
               "name": "obra",
-              "value": 0.0009748542014790797,
+              "value": 0.0014315696749828298,
               "value_in_topic": 0.10852713178294573
             },
             {
               "name": "texcoco",
-              "value": 0.0008554842992571514,
+              "value": 0.0012562754290665647,
               "value_in_topic": 0.09523809523809522
             },
             {
               "name": "millones",
-              "value": 0.0007460618888870508,
+              "value": 0.0010955890369766554,
               "value_in_topic": 0.08305647840531562
             },
             {
               "name": "proyecto",
-              "value": 0.0007361143970352233,
+              "value": 0.0010809811831502998,
               "value_in_topic": 0.08194905869324473
             },
             {
               "name": "actual_aeropuerto",
-              "value": 0.0006963244296279141,
+              "value": 0.0010225497678448784,
               "value_in_topic": 0.07751937984496124
             },
             {
               "name": "aeropuerto_santa",
-              "value": 0.0005670070355541586,
+              "value": 0.000832647668102258,
               "value_in_topic": 0.06312292358803986
             },
             {
               "name": "nuevo_aeropuerto",
-              "value": 0.0005371645599986766,
+              "value": 0.0007888241066231919,
               "value_in_topic": 0.05980066445182724
             },
             {
               "name": "construcci\u00f3n",
-              "value": 0.0005272170681468492,
+              "value": 0.0007742162527968364,
               "value_in_topic": 0.058693244739756366
             }
           ],
-          "value_in_group": 0.43966514498045534
+          "value_in_group": 0.447018314290101
+        }
+      ]
+    },
+    {
+      "name": "Valores",
+      "group_value": 0.020498496118460673,
+      "color": "#F7B6D2",
+      "children": [
+        {
+          "name": "tema_51",
+          "topic_rank": 18,
+          "topic_value": 0.020498496118460673,
+          "ts_code": "....|.||.....|....................",
+          "children": [
+            {
+              "name": "j\u00f3venes",
+              "value": 0.006798182789793753,
+              "value_in_topic": 0.3316430020283976
+            },
+            {
+              "name": "valores",
+              "value": 0.002432377328458315,
+              "value_in_topic": 0.11866125760649086
+            },
+            {
+              "name": "campa\u00f1a",
+              "value": 0.0017463221845341746,
+              "value_in_topic": 0.08519269776876266
+            },
+            {
+              "name": "violencia",
+              "value": 0.0017255326347182917,
+              "value_in_topic": 0.08417849898580121
+            },
+            {
+              "name": "drogas",
+              "value": 0.0017047430849024086,
+              "value_in_topic": 0.08316430020283974
+            },
+            {
+              "name": "familias",
+              "value": 0.0017047430849024086,
+              "value_in_topic": 0.08316430020283974
+            },
+            {
+              "name": "fortalecer_valores",
+              "value": 0.001247372988952982,
+              "value_in_topic": 0.06085192697768762
+            },
+            {
+              "name": "atender_causas",
+              "value": 0.0010602670406100346,
+              "value_in_topic": 0.051724137931034475
+            },
+            {
+              "name": "atendiendo",
+              "value": 0.0010394774907941519,
+              "value_in_topic": 0.05070993914807302
+            },
+            {
+              "name": "ser_felices",
+              "value": 0.0010394774907941519,
+              "value_in_topic": 0.05070993914807302
+            }
+          ],
+          "value_in_group": 1.0
         }
       ]
     },
     {
       "name": "Historia",
-      "group_value": 0.014089316301010816,
+      "group_value": 0.019829757015026112,
       "color": "#C49C94",
       "children": [
         {
-          "name": "tema_35",
-          "topic_rank": 19,
-          "topic_value": 0.014089316301010816,
-          "ts_code": ".........................|........",
+          "name": "tema_34",
+          "topic_rank": 22,
+          "topic_value": 0.019829757015026112,
+          "ts_code": "........|................|.......|",
           "children": [
             {
               "name": "historia",
-              "value": 0.0029246775715094657,
+              "value": 0.004116285300953074,
               "value_in_topic": 0.2075812274368231
             },
             {
               "name": "revoluci\u00f3n",
-              "value": 0.001996410342291244,
+              "value": 0.0028098121402157943,
               "value_in_topic": 0.1416967509025271
             },
             {
               "name": "porfirio_d\u00edaz",
-              "value": 0.0018565344584364435,
+              "value": 0.00261294632147456,
               "value_in_topic": 0.13176895306859207
             },
             {
               "name": "democracia",
-              "value": 0.0014623387857547329,
+              "value": 0.002058142650476537,
               "value_in_topic": 0.10379061371841156
             },
             {
               "name": "madero",
-              "value": 0.0014241908174306964,
+              "value": 0.0020044519726380187,
               "value_in_topic": 0.10108303249097474
             },
             {
               "name": "presidente_madero",
-              "value": 0.0010681431130730222,
+              "value": 0.001503338979478514,
               "value_in_topic": 0.07581227436823106
             },
             {
               "name": "independencia",
-              "value": 0.0008646872820114942,
+              "value": 0.0012169886976730827,
               "value_in_topic": 0.06137184115523466
             },
             {
               "name": "santa_anna",
-              "value": 0.0008519712925701489,
+              "value": 0.0011990918050602435,
               "value_in_topic": 0.060469314079422395
             },
             {
               "name": "ju\u00e1rez",
-              "value": 0.0008265393136874578,
+              "value": 0.0011632980198345644,
               "value_in_topic": 0.05866425992779784
             },
             {
               "name": "pol\u00edtica",
-              "value": 0.0008138233242461124,
+              "value": 0.0011454011272217252,
               "value_in_topic": 0.057761732851985575
             }
           ],
@@ -3514,130 +3521,64 @@
       ]
     },
     {
-      "name": "Valores",
-      "group_value": 0.013944732114002772,
-      "color": "#F7B6D2",
-      "children": [
-        {
-          "name": "tema_52",
-          "topic_rank": 21,
-          "topic_value": 0.013944732114002772,
-          "ts_code": "....|.............................",
-          "children": [
-            {
-              "name": "j\u00f3venes",
-              "value": 0.004624672820769682,
-              "value_in_topic": 0.3316430020283976
-            },
-            {
-              "name": "valores",
-              "value": 0.001654699449633189,
-              "value_in_topic": 0.11866125760649086
-            },
-            {
-              "name": "campa\u00f1a",
-              "value": 0.001187989348454597,
-              "value_in_topic": 0.08519269776876266
-            },
-            {
-              "name": "violencia",
-              "value": 0.001173846618115852,
-              "value_in_topic": 0.08417849898580121
-            },
-            {
-              "name": "drogas",
-              "value": 0.0011597038877771066,
-              "value_in_topic": 0.08316430020283974
-            },
-            {
-              "name": "familias",
-              "value": 0.0011597038877771066,
-              "value_in_topic": 0.08316430020283974
-            },
-            {
-              "name": "fortalecer_valores",
-              "value": 0.0008485638203247122,
-              "value_in_topic": 0.06085192697768762
-            },
-            {
-              "name": "atender_causas",
-              "value": 0.0007212792472760054,
-              "value_in_topic": 0.051724137931034475
-            },
-            {
-              "name": "atendiendo",
-              "value": 0.0007071365169372603,
-              "value_in_topic": 0.05070993914807302
-            },
-            {
-              "name": "ser_felices",
-              "value": 0.0007071365169372603,
-              "value_in_topic": 0.05070993914807302
-            }
-          ],
-          "value_in_group": 1.0
-        }
-      ]
-    },
-    {
       "name": "Ecolog\u00eda",
-      "group_value": 0.01007602531271428,
+      "group_value": 0.014970215680489106,
       "color": "#98DF8A",
       "children": [
         {
-          "name": "tema_29",
-          "topic_rank": 31,
-          "topic_value": 0.01007602531271428,
+          "name": "tema_28",
+          "topic_rank": 30,
+          "topic_value": 0.014970215680489106,
           "ts_code": "....................|.............",
           "children": [
             {
               "name": "agua",
-              "value": 0.00425772958603504,
+              "value": 0.006325820770985548,
               "value_in_topic": 0.4225604297224709
             },
             {
               "name": "chihuahua",
-              "value": 0.001244844667103465,
+              "value": 0.0018494984457542493,
               "value_in_topic": 0.12354521038495969
             },
             {
               "name": "medio_ambiente",
-              "value": 0.0007577315364977614,
+              "value": 0.0011257816626330211,
               "value_in_topic": 0.07520143240823633
             },
             {
               "name": "concesiones",
-              "value": 0.0007216490823788204,
+              "value": 0.001072173012031449,
               "value_in_topic": 0.07162041181736795
             },
             {
               "name": "ambiente",
-              "value": 0.0006314429470814678,
+              "value": 0.0009381513855275177,
               "value_in_topic": 0.06266786034019695
             },
             {
               "name": "millones_hect\u00e1reas",
-              "value": 0.0006134017200219973,
+              "value": 0.0009113470602267314,
               "value_in_topic": 0.060877350044762746
             },
             {
               "name": "mina",
-              "value": 0.0005412368117841153,
+              "value": 0.0008041297590235867,
               "value_in_topic": 0.05371530886302596
             },
             {
               "name": "concesi\u00f3n",
-              "value": 0.0004690719035462332,
+              "value": 0.0006969124578204418,
               "value_in_topic": 0.04655326768128916
             },
             {
               "name": "laguna",
-              "value": 0.00045103067648676276,
+              "value": 0.0006701081325196556,
               "value_in_topic": 0.044762757385854966
             },
             {
               "name": "obra",
-              "value": 0.00038788638177861593,
+              "value": 0.0005762929939669037,
               "value_in_topic": 0.038495971351835266
             }
           ],
@@ -3647,63 +3588,63 @@
     },
     {
       "name": "Avi\u00f3n",
-      "group_value": 0.008533520983398457,
+      "group_value": 0.012414030923746738,
       "color": "#9EDAE5",
       "children": [
         {
-          "name": "tema_37",
-          "topic_rank": 38,
-          "topic_value": 0.008533520983398457,
-          "ts_code": "............||....................",
+          "name": "tema_36",
+          "topic_rank": 36,
+          "topic_value": 0.012414030923746738,
+          "ts_code": "............||....|...............",
           "children": [
             {
               "name": "avi\u00f3n",
-              "value": 0.0035935825022896054,
+              "value": 0.005227718358839984,
               "value_in_topic": 0.4211136890951276
             },
             {
               "name": "boletos",
-              "value": 0.000920669897280808,
+              "value": 0.0013393328026780123,
               "value_in_topic": 0.10788863109048723
             },
             {
               "name": "rifa",
-              "value": 0.0006236796078353861,
+              "value": 0.00090728996310446,
               "value_in_topic": 0.07308584686774942
             },
             {
               "name": "fuerza_a\u00e9rea",
-              "value": 0.0005741812262611491,
+              "value": 0.0008352828231755346,
               "value_in_topic": 0.06728538283062645
             },
             {
               "name": "dos_millones",
-              "value": 0.0005345825210017594,
+              "value": 0.0007776771112323942,
               "value_in_topic": 0.06264501160092807
             },
             {
               "name": "mantenimiento",
-              "value": 0.0005147831683720647,
+              "value": 0.000748874255260824,
               "value_in_topic": 0.06032482598607888
             },
             {
               "name": "dinero",
-              "value": 0.0004454854341681329,
+              "value": 0.0006480642593603285,
               "value_in_topic": 0.052204176334106726
             },
             {
               "name": "aviones",
-              "value": 0.0004454854341681329,
+              "value": 0.0006480642593603285,
               "value_in_topic": 0.052204176334106726
             },
             {
               "name": "a\u00f1o",
-              "value": 0.0004454854341681329,
+              "value": 0.0006480642593603285,
               "value_in_topic": 0.052204176334106726
             },
             {
               "name": "empresarios",
-              "value": 0.0004355857578532855,
+              "value": 0.0006336628313745434,
               "value_in_topic": 0.05104408352668213
             }
           ],
@@ -3713,63 +3654,63 @@
     },
     {
       "name": "Desastres",
-      "group_value": 0.007532512248337278,
+      "group_value": 0.011060582278558521,
       "color": "#8C564B",
       "children": [
         {
           "name": "tema_0",
-          "topic_rank": 44,
-          "topic_value": 0.007532512248337278,
-          "ts_code": "......................|...........",
+          "topic_rank": 42,
+          "topic_value": 0.011060582278558521,
+          "ts_code": "......................||........|.",
           "children": [
             {
               "name": "agua",
-              "value": 0.0015422651190957631,
+              "value": 0.0022646296059956614,
               "value_in_topic": 0.20474777448071216
             },
             {
               "name": "tabasco",
-              "value": 0.0014752101139176863,
+              "value": 0.0021661674492132413,
               "value_in_topic": 0.19584569732937684
             },
             {
               "name": "inundaciones",
-              "value": 0.0006705500517807666,
+              "value": 0.0009846215678242008,
               "value_in_topic": 0.08902077151335312
             },
             {
               "name": "presa",
-              "value": 0.0006593742175844204,
+              "value": 0.0009682112083604639,
               "value_in_topic": 0.08753709198813056
             },
             {
               "name": "hurac\u00e1n",
-              "value": 0.0005923192124063437,
+              "value": 0.0008697490515780439,
               "value_in_topic": 0.07863501483679525
             },
             {
               "name": "damnificados",
-              "value": 0.0005699675440136516,
+              "value": 0.0008369283326505706,
               "value_in_topic": 0.07566765578635015
             },
             {
               "name": "presas",
-              "value": 0.0005699675440136516,
+              "value": 0.0008369283326505706,
               "value_in_topic": 0.07566765578635015
             },
             {
               "name": "r\u00edo",
-              "value": 0.0005029125388355749,
+              "value": 0.0007384661758681506,
               "value_in_topic": 0.06676557863501484
             },
             {
               "name": "inundaci\u00f3n",
-              "value": 0.0004805608704428827,
+              "value": 0.0007056454569406771,
               "value_in_topic": 0.06379821958456973
             },
             {
               "name": "r\u00edos",
-              "value": 0.0004693850362465366,
+              "value": 0.0006892350974769405,
               "value_in_topic": 0.06231454005934718
             }
           ],
@@ -3779,63 +3720,63 @@
     },
     {
       "name": "Mujeres",
-      "group_value": 0.006732315542026552,
+      "group_value": 0.009617424512053021,
       "color": "#2CA02C",
       "children": [
         {
-          "name": "tema_53",
+          "name": "tema_52",
           "topic_rank": 51,
-          "topic_value": 0.006732315542026552,
-          "ts_code": "..........................|.......",
+          "topic_value": 0.009617424512053021,
+          "ts_code": "..............|...........|.......",
           "children": [
             {
               "name": "mujeres",
-              "value": 0.0030409455396857694,
+              "value": 0.004344131523637499,
               "value_in_topic": 0.4516938519447929
             },
             {
               "name": "violencia",
-              "value": 0.0011403545773821637,
+              "value": 0.0016290493213640623,
               "value_in_topic": 0.16938519447929734
             },
             {
               "name": "mujer",
-              "value": 0.0005321654694450097,
+              "value": 0.0007602230166365623,
               "value_in_topic": 0.07904642409033875
             },
             {
               "name": "igualdad",
-              "value": 0.00040545940529143593,
+              "value": 0.0005792175364849999,
               "value_in_topic": 0.06022584692597239
             },
             {
               "name": "hombres_mujeres",
-              "value": 0.00038011819246072117,
+              "value": 0.0005430164404546874,
               "value_in_topic": 0.05646173149309911
             },
             {
               "name": "movimiento",
-              "value": 0.00031254162491214856,
+              "value": 0.0004464801843738541,
               "value_in_topic": 0.04642409033877038
             },
             {
               "name": "nunca",
-              "value": 0.00023651798642000427,
+              "value": 0.00033787689628291657,
               "value_in_topic": 0.035131744040150556
             },
             {
               "name": "provocaci\u00f3n",
-              "value": 0.00023651798642000427,
+              "value": 0.00033787689628291657,
               "value_in_topic": 0.035131744040150556
             },
             {
               "name": "hombres",
-              "value": 0.00022807091547643273,
+              "value": 0.0003258098642728125,
               "value_in_topic": 0.03387703889585947
             },
             {
               "name": "desigualdad",
-              "value": 0.00021962384453286113,
+              "value": 0.00031374283226270823,
               "value_in_topic": 0.03262233375156837
             }
           ],
@@ -3845,126 +3786,126 @@
     },
     {
       "name": "Otros",
-      "group_value": 0.005839141229858798,
+      "group_value": 0.008469794485409306,
       "color": "#C7C7C7",
       "children": [
         {
           "name": "tema_18",
-          "topic_rank": 61,
-          "topic_value": 0.0032443059524687044,
-          "ts_code": "..................................",
+          "topic_rank": 60,
+          "topic_value": 0.004805801298854406,
+          "ts_code": ".......|..........................",
           "children": [
             {
               "name": "deportistas",
-              "value": 0.0007093659317294917,
+              "value": 0.0010507861360839216,
               "value_in_topic": 0.2186495176848875
             },
             {
               "name": "deporte",
-              "value": 0.0006467748201063013,
+              "value": 0.0009580697123118109,
               "value_in_topic": 0.19935691318327975
             },
             {
               "name": "b\u00e9isbol",
-              "value": 0.0005633200046087141,
+              "value": 0.0008344478139489967,
               "value_in_topic": 0.1736334405144695
             },
             {
               "name": "casa",
-              "value": 0.0003233874100531506,
+              "value": 0.00047903485615590543,
               "value_in_topic": 0.09967845659163987
             },
             {
               "name": "medallas",
-              "value": 0.00021906889068116657,
+              "value": 0.0003245074832023876,
               "value_in_topic": 0.06752411575562701
             },
             {
               "name": "banco",
-              "value": 0.00019820518680676975,
+              "value": 0.00029360200861168397,
               "value_in_topic": 0.061093247588424444
             },
             {
               "name": "esfuerzo",
-              "value": 0.00015647777905797612,
+              "value": 0.00023179105943027683,
               "value_in_topic": 0.048231511254019296
             },
             {
               "name": "libro",
-              "value": 0.0001460459271207777,
+              "value": 0.00021633832213492502,
               "value_in_topic": 0.04501607717041801
             },
             {
               "name": "entrenadores",
-              "value": 0.0001460459271207777,
+              "value": 0.00021633832213492502,
               "value_in_topic": 0.04501607717041801
             },
             {
               "name": "bronce",
-              "value": 0.0001356140751835793,
+              "value": 0.00020088558483957327,
               "value_in_topic": 0.041800643086816726
             }
           ],
-          "value_in_group": 0.5556135439709442
+          "value_in_group": 0.5674047117829405
         },
         {
-          "name": "tema_23",
-          "topic_rank": 63,
-          "topic_value": 0.0025948352773900937,
+          "name": "tema_22",
+          "topic_rank": 62,
+          "topic_value": 0.0036639931865549004,
           "ts_code": ".................................|",
           "children": [
             {
               "name": "usted",
-              "value": 0.0006903690187551625,
+              "value": 0.0009748238753219458,
               "value_in_topic": 0.2660550458715596
             },
             {
               "name": "pregunta",
-              "value": 0.0003094757670281763,
+              "value": 0.00043699001307535504,
               "value_in_topic": 0.11926605504587155
             },
             {
               "name": "precisamente",
-              "value": 0.0002936052148728852,
+              "value": 0.00041458026881508044,
               "value_in_topic": 0.11314984709480122
             },
             {
               "name": "personas",
-              "value": 0.0002380582823293664,
+              "value": 0.00033614616390411934,
               "value_in_topic": 0.09174311926605505
             },
             {
               "name": "preguntarle",
-              "value": 0.0002063171780187842,
+              "value": 0.00029132667538357004,
               "value_in_topic": 0.07951070336391437
             },
             {
               "name": "litio",
-              "value": 0.00019838190194113866,
+              "value": 0.0002801218032534327,
               "value_in_topic": 0.0764525993883792
             },
             {
               "name": "morelos",
-              "value": 0.00019044662586349312,
+              "value": 0.00026891693112329545,
               "value_in_topic": 0.07339449541284404
             },
             {
               "name": "guerrero",
-              "value": 0.00015870552155291092,
+              "value": 0.00022409744260274618,
               "value_in_topic": 0.061162079510703356
             },
             {
               "name": "autoridades",
-              "value": 0.00015870552155291092,
+              "value": 0.00022409744260274618,
               "value_in_topic": 0.061162079510703356
             },
             {
               "name": "ahorita",
-              "value": 0.00015077024547526538,
+              "value": 0.00021289257047260886,
               "value_in_topic": 0.05810397553516819
             }
           ],
-          "value_in_group": 0.44438645602905585
+          "value_in_group": 0.43259528821705956
         }
       ]
     }
